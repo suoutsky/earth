@@ -1,0 +1,282 @@
+{
+  "success": true,
+  "errorCode": null,
+  "desc": null,
+  "data": {
+    "analyse": 5961098.0,
+    "compare": 5481129.0,
+    "diff": 479969.0,
+    "details": [
+      {
+        "analyse": 14500.0,
+        "compare": 5200.0,
+        "diff": 9300.0,
+        "rate": 1.7885,
+        "accountId": 10496,
+        "companyName": "昆山玄朗信息科技有限公司",
+        "tagNames": "待定"
+      },
+      {
+        "analyse": 63.0,
+        "compare": 78792.0,
+        "diff": -78729.0,
+        "rate": -0.9992,
+        "accountId": 9282,
+        "companyName": "兴业银行股份有限公司(by)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.0,
+        "compare": 0.0,
+        "diff": 0.0,
+        "rate": 0.0,
+        "accountId": 323,
+        "companyName": "兑吧free(2)",
+        "tagNames": "兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧,兑吧"
+      },
+      {
+        "analyse": 234956.0,
+        "compare": 304892.0,
+        "diff": -69936.0,
+        "rate": -0.2294,
+        "accountId": 8005,
+        "companyName": "广州市因地利信息科技有限公司",
+        "tagNames": "招商银行信用卡,招商银行信用卡,招商银行信用卡"
+      },
+      {
+        "analyse": 149964.0,
+        "compare": 79180.0,
+        "diff": 70784.0,
+        "rate": 0.894,
+        "accountId": 8839,
+        "companyName": "中信银行股份有限公司信用卡中心(sz1)",
+        "tagNames": "中信银行信用卡"
+      },
+      {
+        "analyse": 0.0,
+        "compare": 0.0,
+        "diff": 0.0,
+        "rate": 0.0,
+        "accountId": 9415,
+        "companyName": "本地化(补量)",
+        "tagNames": null
+      },
+      {
+        "analyse": 52.0,
+        "compare": 50.0,
+        "diff": 2.0,
+        "rate": 0.04,
+        "accountId": 7561,
+        "companyName": "杭州竞聚信息科技有限公司",
+        "tagNames": null
+      },
+      {
+        "analyse": 168676.0,
+        "compare": 110667.0,
+        "diff": 58009.0,
+        "rate": 0.5242,
+        "accountId": 9545,
+        "companyName": "中信银行股份有限公司信用卡中心(yuchuang)",
+        "tagNames": "中信银行信用卡,中信银行信用卡"
+      },
+      {
+        "analyse": 0.0,
+        "compare": 0.0,
+        "diff": 0.0,
+        "rate": 0.0,
+        "accountId": 5903,
+        "companyName": "中国光大银行股份有限公司广州分行(SZ)",
+        "tagNames": null
+      },
+      {
+        "analyse": 234805.0,
+        "compare": 209150.0,
+        "diff": 25655.0,
+        "rate": 0.1227,
+        "accountId": 10385,
+        "companyName": "广发银行股份有限公司信用卡中心(ZK)",
+        "tagNames": "广发银行信用卡,广发银行信用卡"
+      },
+      {
+        "analyse": 24558.0,
+        "compare": 15830.0,
+        "diff": 8728.0,
+        "rate": 0.5514,
+        "accountId": 8148,
+        "companyName": "深圳市稳当当金融服务有限公司(by)",
+        "tagNames": "信用卡超市"
+      },
+      {
+        "analyse": 200687.0,
+        "compare": 128829.0,
+        "diff": 71858.0,
+        "rate": 0.5578,
+        "accountId": 8152,
+        "companyName": "兴业银行股份有限公司上海分行(by)",
+        "tagNames": "兴业银行信用卡,兴业银行信用卡"
+      },
+      {
+        "analyse": 17750.0,
+        "compare": 14000.0,
+        "diff": 3750.0,
+        "rate": 0.2679,
+        "accountId": 9689,
+        "companyName": "上海银行股份有限公司(YQ)",
+        "tagNames": "上海银行信用卡"
+      },
+      {
+        "analyse": 16105.0,
+        "compare": 7448.0,
+        "diff": 8657.0,
+        "rate": 1.1623,
+        "accountId": 10970,
+        "companyName": "上海浦东发展银行股份有限公司北京富力支行",
+        "tagNames": "待定"
+      },
+      {
+        "analyse": 383.0,
+        "compare": 0.0,
+        "diff": 383.0,
+        "rate": 0.0,
+        "accountId": 8154,
+        "companyName": "招商银行股份有限公司信用卡中心(by)",
+        "tagNames": null
+      },
+      {
+        "analyse": 99841.0,
+        "compare": 99747.0,
+        "diff": 94.0,
+        "rate": 9.0e-4,
+        "accountId": 10459,
+        "companyName": "中信银行股份有限公司信用卡中心(FFW)",
+        "tagNames": "中信银行信用卡,中信银行信用卡"
+      },
+      {
+        "analyse": 34612.0,
+        "compare": 23100.0,
+        "diff": 11512.0,
+        "rate": 0.4984,
+        "accountId": 10652,
+        "companyName": "上海银行股份有限公司信用卡中心(by)",
+        "tagNames": "上海银行信用卡,上海银行信用卡"
+      },
+      {
+        "analyse": 9907.0,
+        "compare": 49716.0,
+        "diff": -39809.0,
+        "rate": -0.8007,
+        "accountId": 10716,
+        "companyName": "广州泽展市场营销有限公司",
+        "tagNames": "测试专用数据"
+      },
+      {
+        "analyse": 49946.0,
+        "compare": 49700.0,
+        "diff": 246.0,
+        "rate": 0.0049,
+        "accountId": 8732,
+        "companyName": "上海浦东发展银行股份有限公司信用卡中心(HSL)",
+        "tagNames": "浦发银行信用卡"
+      },
+      {
+        "analyse": 0.0,
+        "compare": 0.0,
+        "diff": 0.0,
+        "rate": 0.0,
+        "accountId": 6304,
+        "companyName": "交通银行股份有限公司太平洋信用卡中心(SZ)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.0,
+        "compare": 71.0,
+        "diff": -71.0,
+        "rate": -1.0,
+        "accountId": 10400,
+        "companyName": "上海银行股份有限公司浦东分行",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.0,
+        "compare": 33.0,
+        "diff": -33.0,
+        "rate": -1.0,
+        "accountId": 10466,
+        "companyName": "招商银行股份有限公司佛山禅城支行(FFW)",
+        "tagNames": null
+      },
+      {
+        "analyse": 47890.0,
+        "compare": 34810.0,
+        "diff": 13080.0,
+        "rate": 0.3758,
+        "accountId": 10915,
+        "companyName": "上海银行股份有限公司(HFT)",
+        "tagNames": "待定,待定"
+      },
+      {
+        "analyse": 170.0,
+        "compare": 400883.0,
+        "diff": -400713.0,
+        "rate": -0.9996,
+        "accountId": 10214,
+        "companyName": "兴业银行股份有限公司广州分行(by)",
+        "tagNames": "兴业银行信用卡"
+      },
+      {
+        "analyse": 557057.0,
+        "compare": 671750.0,
+        "diff": -114693.0,
+        "rate": -0.1707,
+        "accountId": 8616,
+        "companyName": "中信银行股份有限公司温州分行(by)",
+        "tagNames": "中信银行信用卡,中信银行信用卡"
+      },
+      {
+        "analyse": 139.0,
+        "compare": 0.0,
+        "diff": 139.0,
+        "rate": 0.0,
+        "accountId": 9640,
+        "companyName": "中国银行股份有限公司银行卡中心(YQ1)",
+        "tagNames": null
+      },
+      {
+        "analyse": 206743.0,
+        "compare": 208213.0,
+        "diff": -1470.0,
+        "rate": -0.0071,
+        "accountId": 3818,
+        "companyName": "北京融联世纪信息技术有限公司(PX)",
+        "tagNames": "浦发银行信用卡,交通银行信用卡,招商银行信用卡"
+      },
+      {
+        "analyse": 153327.0,
+        "compare": 155890.0,
+        "diff": -2563.0,
+        "rate": -0.0164,
+        "accountId": 8618,
+        "companyName": "中信银行股份有限公司信用卡中心兰州分中心(by)",
+        "tagNames": "中信银行信用卡,中信银行信用卡"
+      },
+      {
+        "analyse": 108756.0,
+        "compare": 120375.0,
+        "diff": -11619.0,
+        "rate": -0.0965,
+        "accountId": 10987,
+        "companyName": "广州能西信息科技有限公司(1)",
+        "tagNames": "测试专用数据,测试专用数据"
+      },
+      {
+        "analyse": 46591.0,
+        "compare": 98098.0,
+        "diff": -51507.0,
+        "rate": -0.5251,
+        "accountId": 9195,
+        "companyName": "中国光大银行股份有限公司上海分行 ",
+        "tagNames": "光大银行信用卡,光大银行信用卡"
+      }
+    ]
+  }
+}

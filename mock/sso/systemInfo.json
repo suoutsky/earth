@@ -1,0 +1,10 @@
+{
+	"system": {
+		"id": 24,
+		"appNameAlias": "tuia-news-manager",
+		"appName": "天天趣闻媒体管理平台",
+		"icon": null
+	},
+	"success": true,
+	"ssoHomeURL": "http://sso.duibadev.com.cn"
+}

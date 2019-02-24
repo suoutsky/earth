@@ -1,0 +1,3378 @@
+{
+  "success": true,
+  "errorCode": null,
+  "desc": null,
+  "data": {
+    "analyse": 1601209.81,
+    "compare": 1521664.81,
+    "diff": 79545.0,
+    "details": [
+      {
+        "analyse": 64877.22,
+        "compare": 27247.37,
+        "diff": 37629.850000000006,
+        "rate": 1.381,
+        "accountId": 10877,
+        "companyName": "上海筑懿投资管理有限公司(DK1)(肖阳)",
+        "tagNames": null
+      },
+      {
+        "analyse": 35174.32,
+        "compare": 0.0,
+        "diff": 35174.32,
+        "rate": 0.0,
+        "accountId": 11602,
+        "companyName": "可爱秀服饰（上海)）有限公司(肖阳)",
+        "tagNames": null
+      },
+      {
+        "analyse": 215145.68,
+        "compare": 190370.2,
+        "diff": 24775.47999999998,
+        "rate": 0.1301,
+        "accountId": 9637,
+        "companyName": "杭州微米网络科技有限公司(IOS)(薛胜强)",
+        "tagNames": "拼多多"
+      },
+      {
+        "analyse": 22884.01,
+        "compare": 0.0,
+        "diff": 22884.01,
+        "rate": 0.0,
+        "accountId": 11725,
+        "companyName": "黑卡云计算（杭州）有限公司(XN)(郑涵文)",
+        "tagNames": null
+      },
+      {
+        "analyse": 454462.15,
+        "compare": 431953.43,
+        "diff": 22508.72000000003,
+        "rate": 0.0521,
+        "accountId": 10444,
+        "companyName": "杭州微米网络科技有限公司(Android)(杨书芳)",
+        "tagNames": "拼多多"
+      },
+      {
+        "analyse": 16340.86,
+        "compare": 1082.91,
+        "diff": 15257.95,
+        "rate": 14.0898,
+        "accountId": 1262,
+        "companyName": "贵州茅台酒厂（集团）保健酒业销售有限公司(薛胜强)",
+        "tagNames": "货到付款"
+      },
+      {
+        "analyse": 13970.18,
+        "compare": 265.58,
+        "diff": 13704.6,
+        "rate": 51.6025,
+        "accountId": 11482,
+        "companyName": "上海铂银投资管理有限公司(肖阳)",
+        "tagNames": "jf"
+      },
+      {
+        "analyse": 34469.16,
+        "compare": 24591.86,
+        "diff": 9877.300000000003,
+        "rate": 0.4016,
+        "accountId": 7543,
+        "companyName": "杭州苍耳科技有限公司(XM)(梅冰冰)",
+        "tagNames": "货到付款,尚德成人学历教育"
+      },
+      {
+        "analyse": 10300.55,
+        "compare": 1731.23,
+        "diff": 8569.32,
+        "rate": 4.9498,
+        "accountId": 11512,
+        "companyName": "深圳市秋铭投资发展有限公司 (郑凯耀)",
+        "tagNames": "奥买家"
+      },
+      {
+        "analyse": 8071.7,
+        "compare": 559.06,
+        "diff": 7512.639999999999,
+        "rate": 13.438,
+        "accountId": 8855,
+        "companyName": "新时代证券股份有限公司信阳北京大街证券营业部(FF)(肖阳)",
+        "tagNames": null
+      },
+      {
+        "analyse": 24143.1,
+        "compare": 17347.2,
+        "diff": 6795.899999999998,
+        "rate": 0.3918,
+        "accountId": 11616,
+        "companyName": "上海基分文化传播有限公司(XM2)(胡逸童)",
+        "tagNames": "趣头条"
+      },
+      {
+        "analyse": 11155.7,
+        "compare": 4542.84,
+        "diff": 6612.860000000001,
+        "rate": 1.4557,
+        "accountId": 8965,
+        "companyName": "北京搜狐新媒体信息技术有限公司(FF)(佘清清)",
+        "tagNames": "沙发视频"
+      },
+      {
+        "analyse": 7118.15,
+        "compare": 852.79,
+        "diff": 6265.36,
+        "rate": 7.3469,
+        "accountId": 10228,
+        "companyName": "内蒙古同文商贸有限公司(TZ)(彭元媛)",
+        "tagNames": null
+      },
+      {
+        "analyse": 6275.86,
+        "compare": 13.47,
+        "diff": 6262.389999999999,
+        "rate": 464.9139,
+        "accountId": 11459,
+        "companyName": "上海储道投资有限公司(XN)(董文龙)",
+        "tagNames": "jf"
+      },
+      {
+        "analyse": 6751.19,
+        "compare": 1056.47,
+        "diff": 5694.719999999999,
+        "rate": 5.3903,
+        "accountId": 9586,
+        "companyName": "上海淇毓信息科技有限公司(XM)(胡逸童)",
+        "tagNames": "360借条"
+      },
+      {
+        "analyse": 8517.75,
+        "compare": 3045.89,
+        "diff": 5471.860000000001,
+        "rate": 1.7965,
+        "accountId": 9423,
+        "companyName": "盐城市亭湖区希芙商贸有限公司(CE)(梅冰冰)",
+        "tagNames": "货到付款"
+      },
+      {
+        "analyse": 10879.09,
+        "compare": 5527.26,
+        "diff": 5351.83,
+        "rate": 0.9683,
+        "accountId": 7632,
+        "companyName": "北京阿尔法网智信息科技有限公司(JUQI)(刘瑾)",
+        "tagNames": "蘑菇保保险"
+      },
+      {
+        "analyse": 14133.98,
+        "compare": 10002.05,
+        "diff": 4131.93,
+        "rate": 0.4131,
+        "accountId": 11493,
+        "companyName": "华创期货有限责任公司(HC)(肖阳)",
+        "tagNames": "待定"
+      },
+      {
+        "analyse": 4114.07,
+        "compare": 0.0,
+        "diff": 4114.07,
+        "rate": 0.0,
+        "accountId": 9988,
+        "companyName": "北京中资北方投资顾问有限公司广州分公司(JIHE)(肖阳)",
+        "tagNames": null
+      },
+      {
+        "analyse": 4054.72,
+        "compare": 2.63,
+        "diff": 4052.0899999999997,
+        "rate": 1540.7186,
+        "accountId": 10406,
+        "companyName": "沈阳麟龙投资顾问有限公司(XM)(董文龙)",
+        "tagNames": null
+      },
+      {
+        "analyse": 3082.4,
+        "compare": 0.0,
+        "diff": 3082.4,
+        "rate": 0.0,
+        "accountId": 10903,
+        "companyName": "江海汇鑫期货有限公司(DK2)(肖阳)",
+        "tagNames": null
+      },
+      {
+        "analyse": 4159.75,
+        "compare": 1225.5,
+        "diff": 2934.25,
+        "rate": 2.3943,
+        "accountId": 10962,
+        "companyName": "北京鼎游科技有限公司(XN)(彭元媛)",
+        "tagNames": null
+      },
+      {
+        "analyse": 5809.34,
+        "compare": 3064.73,
+        "diff": 2744.61,
+        "rate": 0.8955,
+        "accountId": 9164,
+        "companyName": "上海和丰永讯金融信息服务有限公司(FF)(佘清清)",
+        "tagNames": "京东金融"
+      },
+      {
+        "analyse": 10170.57,
+        "compare": 7570.99,
+        "diff": 2599.58,
+        "rate": 0.3434,
+        "accountId": 10031,
+        "companyName": "新时代证券股份有限公司信阳北京大街证券营业部(FFS)(肖阳)",
+        "tagNames": "jf"
+      },
+      {
+        "analyse": 2532.6,
+        "compare": 6.6,
+        "diff": 2526.0,
+        "rate": 382.7273,
+        "accountId": 11294,
+        "companyName": "广州聚迈软件科技有限公司(XM)(金梦)",
+        "tagNames": null
+      },
+      {
+        "analyse": 4426.75,
+        "compare": 2308.92,
+        "diff": 2117.83,
+        "rate": 0.9172,
+        "accountId": 8616,
+        "companyName": "中信银行股份有限公司温州分行(by)(金梦)",
+        "tagNames": "中信银行信用卡"
+      },
+      {
+        "analyse": 2288.4,
+        "compare": 283.2,
+        "diff": 2005.2,
+        "rate": 7.0805,
+        "accountId": 10263,
+        "companyName": "广州美云彩票科技有限公司(TZ)(董文龙)",
+        "tagNames": null
+      },
+      {
+        "analyse": 2001.4,
+        "compare": 2.33,
+        "diff": 1999.0700000000002,
+        "rate": 857.97,
+        "accountId": 10152,
+        "companyName": "大连华讯投资股份有限公司(XM)(赖珍梅)",
+        "tagNames": "jf"
+      },
+      {
+        "analyse": 3025.3,
+        "compare": 1048.06,
+        "diff": 1977.2400000000002,
+        "rate": 1.8866,
+        "accountId": 11415,
+        "companyName": "广东奥园奥买家电子商务有限公司(付费)(郑涵文)",
+        "tagNames": "奥买家"
+      },
+      {
+        "analyse": 14723.07,
+        "compare": 13005.15,
+        "diff": 1717.92,
+        "rate": 0.1321,
+        "accountId": 4152,
+        "companyName": "天津云聚科技有限公司(胡逸童)",
+        "tagNames": "有条新闻"
+      },
+      {
+        "analyse": 2866.75,
+        "compare": 1324.32,
+        "diff": 1542.43,
+        "rate": 1.1647,
+        "accountId": 9471,
+        "companyName": "深圳市闪拍精灵网络技术有限公司(2)(施航)",
+        "tagNames": "惠拍优品"
+      },
+      {
+        "analyse": 1469.7,
+        "compare": 0.0,
+        "diff": 1469.7,
+        "rate": 0.0,
+        "accountId": 8812,
+        "companyName": "贵州省仁怀市茅台镇联合酿酒有限公司(SZ2)(郑涵文)",
+        "tagNames": null
+      },
+      {
+        "analyse": 1692.07,
+        "compare": 273.46,
+        "diff": 1418.61,
+        "rate": 5.1876,
+        "accountId": 11717,
+        "companyName": "北京未来橙教育科技有限公司1(吕舒萍)",
+        "tagNames": null
+      },
+      {
+        "analyse": 2988.11,
+        "compare": 1692.98,
+        "diff": 1295.13,
+        "rate": 0.765,
+        "accountId": 11019,
+        "companyName": "贵州黔醉酒业（集团）有限公司(赵玉炜)",
+        "tagNames": "货到付款"
+      },
+      {
+        "analyse": 2399.49,
+        "compare": 1176.21,
+        "diff": 1223.2799999999997,
+        "rate": 1.04,
+        "accountId": 7858,
+        "companyName": "上海浦东发展银行股份有限公司信用卡中心(YQ)(金梦)",
+        "tagNames": "浦发银行信用卡"
+      },
+      {
+        "analyse": 1106.5,
+        "compare": 0.54,
+        "diff": 1105.96,
+        "rate": 2048.0741,
+        "accountId": 10594,
+        "companyName": "北京六律科技有限责任公司(FF)(佘清清)",
+        "tagNames": null
+      },
+      {
+        "analyse": 2584.2,
+        "compare": 1511.6,
+        "diff": 1072.6,
+        "rate": 0.7096,
+        "accountId": 8302,
+        "companyName": "招商银行股份有限公司佛山禅城支行(金梦)",
+        "tagNames": "招商银行信用卡"
+      },
+      {
+        "analyse": 5999.7,
+        "compare": 4958.3,
+        "diff": 1041.3999999999996,
+        "rate": 0.21,
+        "accountId": 11273,
+        "companyName": "上海证券通投资资讯科技有限公司(XN)(彭元媛)",
+        "tagNames": null
+      },
+      {
+        "analyse": 5999.88,
+        "compare": 5000.0,
+        "diff": 999.8800000000001,
+        "rate": 0.2,
+        "accountId": 11080,
+        "companyName": "北京字节跳动科技有限公司(XM)(佘清清)",
+        "tagNames": "今日头条极速版"
+      },
+      {
+        "analyse": 1542.82,
+        "compare": 543.21,
+        "diff": 999.6099999999999,
+        "rate": 1.8402,
+        "accountId": 11363,
+        "companyName": "易信无线（北京）科技有限公司(JC)(马丽娟)",
+        "tagNames": "测试专用数据,浦发银行信用卡"
+      },
+      {
+        "analyse": 1987.19,
+        "compare": 1004.56,
+        "diff": 982.6300000000001,
+        "rate": 0.9782,
+        "accountId": 11557,
+        "companyName": "广州贝应网络科技有限公司(XN)(董文龙)",
+        "tagNames": null
+      },
+      {
+        "analyse": 2334.33,
+        "compare": 1370.47,
+        "diff": 963.8599999999999,
+        "rate": 0.7033,
+        "accountId": 6362,
+        "companyName": "泰康人寿保险股份有限公司(WS)(金梦)",
+        "tagNames": "泰康组合险"
+      },
+      {
+        "analyse": 3826.86,
+        "compare": 3010.96,
+        "diff": 815.9000000000001,
+        "rate": 0.271,
+        "accountId": 8152,
+        "companyName": "兴业银行股份有限公司上海分行(by)(金梦)",
+        "tagNames": "兴业银行信用卡"
+      },
+      {
+        "analyse": 978.84,
+        "compare": 172.99,
+        "diff": 805.85,
+        "rate": 4.6584,
+        "accountId": 11055,
+        "companyName": "广州智众联科技有限公司(NX)(吕舒萍)",
+        "tagNames": "浦发银行信用卡"
+      },
+      {
+        "analyse": 926.25,
+        "compare": 125.65,
+        "diff": 800.6,
+        "rate": 6.3717,
+        "accountId": 5722,
+        "companyName": "上海徐汇区韦博进修学校(刘瑾)",
+        "tagNames": "待定"
+      },
+      {
+        "analyse": 8439.12,
+        "compare": 7654.56,
+        "diff": 784.5600000000004,
+        "rate": 0.1025,
+        "accountId": 11281,
+        "companyName": "腾讯科技（北京）有限公司(WS)(赖珍梅)",
+        "tagNames": "天天快报"
+      },
+      {
+        "analyse": 2004.5,
+        "compare": 1226.1,
+        "diff": 778.4000000000001,
+        "rate": 0.6349,
+        "accountId": 11369,
+        "companyName": "保定君轩网络科技有限公司(赖珍梅)",
+        "tagNames": "自在购借贷"
+      },
+      {
+        "analyse": 3246.67,
+        "compare": 2469.07,
+        "diff": 777.5999999999999,
+        "rate": 0.3149,
+        "accountId": 5254,
+        "companyName": "北京字节跳动科技有限公司(火山)(杨书芳)",
+        "tagNames": "火山小视频"
+      },
+      {
+        "analyse": 1066.57,
+        "compare": 298.79,
+        "diff": 767.78,
+        "rate": 2.5696,
+        "accountId": 8856,
+        "companyName": "广州酒搭档饮料销售有限公司(彭元媛)",
+        "tagNames": null
+      },
+      {
+        "analyse": 715.01,
+        "compare": 0.0,
+        "diff": 715.01,
+        "rate": 0.0,
+        "accountId": 9212,
+        "companyName": "北京阿凡题科技有限公司(陈苗苗)",
+        "tagNames": null
+      },
+      {
+        "analyse": 716.9,
+        "compare": 7.0,
+        "diff": 709.9,
+        "rate": 101.4143,
+        "accountId": 11519,
+        "companyName": "北京字节跳动科技有限公司(KY)(彭元媛)",
+        "tagNames": null
+      },
+      {
+        "analyse": 2438.96,
+        "compare": 1741.67,
+        "diff": 697.29,
+        "rate": 0.4004,
+        "accountId": 3831,
+        "companyName": "四川帝禾龙华科技有限责任公司(PX1)(肖阳)",
+        "tagNames": "一起去捕鱼"
+      },
+      {
+        "analyse": 2206.37,
+        "compare": 1572.64,
+        "diff": 633.7299999999998,
+        "rate": 0.403,
+        "accountId": 10376,
+        "companyName": "北京聚齐众兴网络科技有限公司(JQ)(佘清清)",
+        "tagNames": "黑牛保险"
+      },
+      {
+        "analyse": 796.92,
+        "compare": 163.78,
+        "diff": 633.14,
+        "rate": 3.8658,
+        "accountId": 10245,
+        "companyName": "阳光人寿保险股份有限公司(wz)(陈苗苗)",
+        "tagNames": null
+      },
+      {
+        "analyse": 1236.2,
+        "compare": 648.79,
+        "diff": 587.4100000000001,
+        "rate": 0.9054,
+        "accountId": 10994,
+        "companyName": "北京融世纪信息技术有限公司(TY)(吕舒萍)",
+        "tagNames": null
+      },
+      {
+        "analyse": 886.16,
+        "compare": 322.1,
+        "diff": 564.06,
+        "rate": 1.7512,
+        "accountId": 8306,
+        "companyName": "广州银行股份有限公司信用卡中心(金梦)",
+        "tagNames": "广州银行信用卡"
+      },
+      {
+        "analyse": 3998.28,
+        "compare": 3481.75,
+        "diff": 516.5300000000002,
+        "rate": 0.1484,
+        "accountId": 8906,
+        "companyName": "杭州跳鱼科技有限公司(施航)",
+        "tagNames": "拍拍乐"
+      },
+      {
+        "analyse": 999.94,
+        "compare": 499.88,
+        "diff": 500.06000000000006,
+        "rate": 1.0004,
+        "accountId": 9521,
+        "companyName": "北京奇才天下科技有限公司(3)(杨书芳)",
+        "tagNames": "360贷款导航"
+      },
+      {
+        "analyse": 459.23,
+        "compare": 0.0,
+        "diff": 459.23,
+        "rate": 0.0,
+        "accountId": 9906,
+        "companyName": "北京奇才天下科技有限公司(WS)(董文龙)",
+        "tagNames": null
+      },
+      {
+        "analyse": 496.5,
+        "compare": 44.44,
+        "diff": 452.06,
+        "rate": 10.1724,
+        "accountId": 9063,
+        "companyName": "上海新康进修学院(DK)(刘瑾)",
+        "tagNames": "新康成人学历教育"
+      },
+      {
+        "analyse": 422.05,
+        "compare": 0.0,
+        "diff": 422.05,
+        "rate": 0.0,
+        "accountId": 7648,
+        "companyName": "深圳市海灵广告有限公司(YQ)(李红林)",
+        "tagNames": null
+      },
+      {
+        "analyse": 1330.8,
+        "compare": 993.26,
+        "diff": 337.53999999999996,
+        "rate": 0.3398,
+        "accountId": 11639,
+        "companyName": "中信银行股份有限公司信用卡中心(JY)(待分配)",
+        "tagNames": "中信银行信用卡"
+      },
+      {
+        "analyse": 751.68,
+        "compare": 416.43,
+        "diff": 335.24999999999994,
+        "rate": 0.8051,
+        "accountId": 11627,
+        "companyName": "天津礼有品电子商务有限公司(CJ)(熊丹)",
+        "tagNames": "货到付款"
+      },
+      {
+        "analyse": 2031.67,
+        "compare": 1702.76,
+        "diff": 328.9100000000001,
+        "rate": 0.1932,
+        "accountId": 7933,
+        "companyName": "广发银行股份有限公司信用卡中心(SZ2)(施航)",
+        "tagNames": "广发银行信用卡"
+      },
+      {
+        "analyse": 1311.41,
+        "compare": 1027.03,
+        "diff": 284.3800000000001,
+        "rate": 0.2769,
+        "accountId": 11154,
+        "companyName": "杭州递金网络科技有限公司(赖珍梅)",
+        "tagNames": "浦发银行信用卡"
+      },
+      {
+        "analyse": 304.05,
+        "compare": 20.64,
+        "diff": 283.41,
+        "rate": 13.7311,
+        "accountId": 9454,
+        "companyName": "广州银行股份有限公司佛山分行(by)(施航)",
+        "tagNames": null
+      },
+      {
+        "analyse": 399.7,
+        "compare": 122.1,
+        "diff": 277.6,
+        "rate": 2.2735,
+        "accountId": 11433,
+        "companyName": "中信银行股份有限公司温州分行(FF)(张盈盈)",
+        "tagNames": "中信银行信用卡"
+      },
+      {
+        "analyse": 1379.72,
+        "compare": 1109.09,
+        "diff": 270.6300000000001,
+        "rate": 0.244,
+        "accountId": 6256,
+        "companyName": "北京远山保科技有限公司(DK)(刘瑾)",
+        "tagNames": "远山保险"
+      },
+      {
+        "analyse": 985.2,
+        "compare": 715.61,
+        "diff": 269.59000000000003,
+        "rate": 0.3767,
+        "accountId": 6098,
+        "companyName": "沪江教育科技（上海）股份有限公司(留学)(施航)",
+        "tagNames": "沪江网校"
+      },
+      {
+        "analyse": 1406.0,
+        "compare": 1138.88,
+        "diff": 267.1199999999999,
+        "rate": 0.2345,
+        "accountId": 11582,
+        "companyName": "浪潮软件集团有限公司(LC)(吕舒萍)",
+        "tagNames": null
+      },
+      {
+        "analyse": 5278.58,
+        "compare": 5023.31,
+        "diff": 255.26999999999953,
+        "rate": 0.0508,
+        "accountId": 4086,
+        "companyName": "嘉兴戴莎贸易有限公司(梅冰冰)",
+        "tagNames": "货到付款"
+      },
+      {
+        "analyse": 3004.5,
+        "compare": 2768.41,
+        "diff": 236.09000000000015,
+        "rate": 0.0853,
+        "accountId": 8154,
+        "companyName": "招商银行股份有限公司信用卡中心(by)(金梦)",
+        "tagNames": "招商银行信用卡"
+      },
+      {
+        "analyse": 1323.93,
+        "compare": 1103.45,
+        "diff": 220.48000000000002,
+        "rate": 0.1998,
+        "accountId": 9545,
+        "companyName": "中信银行股份有限公司信用卡中心(yuchuang)(施航)",
+        "tagNames": "中信银行信用卡"
+      },
+      {
+        "analyse": 291.9,
+        "compare": 101.8,
+        "diff": 190.09999999999997,
+        "rate": 1.8674,
+        "accountId": 10576,
+        "companyName": "北京远山保科技有限公司(WS)(陈苗苗)",
+        "tagNames": null
+      },
+      {
+        "analyse": 189.9,
+        "compare": 0.0,
+        "diff": 189.9,
+        "rate": 0.0,
+        "accountId": 7582,
+        "companyName": "江西经达网络科技有限公司(俞陈)",
+        "tagNames": null
+      },
+      {
+        "analyse": 182.23,
+        "compare": 0.13,
+        "diff": 182.1,
+        "rate": 1400.7692,
+        "accountId": 11573,
+        "companyName": "广州百纳软件技术有限公司(吕舒萍)",
+        "tagNames": null
+      },
+      {
+        "analyse": 226.17,
+        "compare": 49.4,
+        "diff": 176.76999999999998,
+        "rate": 3.5783,
+        "accountId": 11135,
+        "companyName": "苏州迈科网络安全技术股份有限公司(方愉涵)",
+        "tagNames": "光大银行信用卡"
+      },
+      {
+        "analyse": 173.52,
+        "compare": 0.0,
+        "diff": 173.52,
+        "rate": 0.0,
+        "accountId": 11428,
+        "companyName": "宁波云江互联网科技有限公司(施航)",
+        "tagNames": null
+      },
+      {
+        "analyse": 1097.6,
+        "compare": 932.4,
+        "diff": 165.19999999999993,
+        "rate": 0.1772,
+        "accountId": 11380,
+        "companyName": "海南博洋网络科技有限公司(FF)(刘瑾)",
+        "tagNames": "传奇来了"
+      },
+      {
+        "analyse": 366.25,
+        "compare": 202.31,
+        "diff": 163.94,
+        "rate": 0.8103,
+        "accountId": 11113,
+        "companyName": "广州欢聚小额贷款有限责任公司(方愉涵)",
+        "tagNames": null
+      },
+      {
+        "analyse": 5007.54,
+        "compare": 4848.44,
+        "diff": 159.10000000000036,
+        "rate": 0.0328,
+        "accountId": 10042,
+        "companyName": "中电投先融期货股份有限公司(FFS)(肖阳)",
+        "tagNames": null
+      },
+      {
+        "analyse": 735.3,
+        "compare": 593.95,
+        "diff": 141.3499999999999,
+        "rate": 0.238,
+        "accountId": 11486,
+        "companyName": "北京飞腾时光信息科技有限公司(XN)(方愉涵)",
+        "tagNames": "中国移动流量"
+      },
+      {
+        "analyse": 536.5,
+        "compare": 399.8,
+        "diff": 136.7,
+        "rate": 0.3419,
+        "accountId": 9295,
+        "companyName": "广西钱盆科技股份有限公司(WS)(金梦)",
+        "tagNames": null
+      },
+      {
+        "analyse": 340.94,
+        "compare": 206.53,
+        "diff": 134.41,
+        "rate": 0.6508,
+        "accountId": 5903,
+        "companyName": "中国光大银行股份有限公司广州分行(SZ)(施航)",
+        "tagNames": "光大银行信用卡"
+      },
+      {
+        "analyse": 2236.43,
+        "compare": 2114.32,
+        "diff": 122.10999999999967,
+        "rate": 0.0578,
+        "accountId": 11028,
+        "companyName": "江西朗宏实业有限公司(郑涵文)",
+        "tagNames": "货到付款"
+      },
+      {
+        "analyse": 447.68,
+        "compare": 329.08,
+        "diff": 118.60000000000002,
+        "rate": 0.3604,
+        "accountId": 9981,
+        "companyName": "北京晟宏教育咨询有限公司(DK2)(张盈盈)",
+        "tagNames": "晟宏成人学历教育"
+      },
+      {
+        "analyse": 505.4,
+        "compare": 386.93,
+        "diff": 118.46999999999997,
+        "rate": 0.3062,
+        "accountId": 11622,
+        "companyName": "上海新旦营销管理股份有限公司(XN)(金梦)",
+        "tagNames": "新旦保险"
+      },
+      {
+        "analyse": 957.56,
+        "compare": 847.24,
+        "diff": 110.31999999999994,
+        "rate": 0.1302,
+        "accountId": 9470,
+        "companyName": "上海和丰永讯金融信息服务有限公司(SZ)(方愉涵)",
+        "tagNames": "京东金融"
+      },
+      {
+        "analyse": 199.41,
+        "compare": 106.77,
+        "diff": 92.64,
+        "rate": 0.8677,
+        "accountId": 11630,
+        "companyName": "无锡信成网络科技有限公司(JC)(待分配)",
+        "tagNames": null
+      },
+      {
+        "analyse": 96.2,
+        "compare": 5.6,
+        "diff": 90.60000000000001,
+        "rate": 16.1786,
+        "accountId": 7735,
+        "companyName": "苏州灵趣信息科技有限公司(郑涵文)",
+        "tagNames": null
+      },
+      {
+        "analyse": 4784.4,
+        "compare": 4695.0,
+        "diff": 89.39999999999964,
+        "rate": 0.019,
+        "accountId": 10490,
+        "companyName": "上海基分文化传播有限公司(cpa)(胡逸童)",
+        "tagNames": "趣头条"
+      },
+      {
+        "analyse": 98.35,
+        "compare": 15.11,
+        "diff": 83.24,
+        "rate": 5.5089,
+        "accountId": 9420,
+        "companyName": "上海标道商贸有限公司(赖珍梅)",
+        "tagNames": null
+      },
+      {
+        "analyse": 874.66,
+        "compare": 794.36,
+        "diff": 80.29999999999995,
+        "rate": 0.1011,
+        "accountId": 11076,
+        "companyName": "北京福瑞金融信息服务有限公司(方愉涵)",
+        "tagNames": "中信银行信用卡"
+      },
+      {
+        "analyse": 119.23,
+        "compare": 44.65,
+        "diff": 74.58000000000001,
+        "rate": 1.6703,
+        "accountId": 9564,
+        "companyName": "上海和语网络科技有限公司(待分配)",
+        "tagNames": null
+      },
+      {
+        "analyse": 499.7,
+        "compare": 426.8,
+        "diff": 72.89999999999998,
+        "rate": 0.1708,
+        "accountId": 11367,
+        "companyName": "昆山玄朗信息科技有限公司(XL)(李红林)",
+        "tagNames": "360贷款导航"
+      },
+      {
+        "analyse": 1417.68,
+        "compare": 1366.03,
+        "diff": 51.65000000000009,
+        "rate": 0.0378,
+        "accountId": 9587,
+        "companyName": "天津礼有品电子商务有限公司(熊丹)",
+        "tagNames": "货到付款"
+      },
+      {
+        "analyse": 39.6,
+        "compare": 0.0,
+        "diff": 39.6,
+        "rate": 0.0,
+        "accountId": 3818,
+        "companyName": "北京融联世纪信息技术有限公司(PX)(刘瑾)",
+        "tagNames": null
+      },
+      {
+        "analyse": 793.7,
+        "compare": 755.83,
+        "diff": 37.870000000000005,
+        "rate": 0.0501,
+        "accountId": 8684,
+        "companyName": "北京晟宏教育咨询有限公司(DK)(张盈盈)",
+        "tagNames": "晟宏成人学历教育"
+      },
+      {
+        "analyse": 37.25,
+        "compare": 0.0,
+        "diff": 37.25,
+        "rate": 0.0,
+        "accountId": 11267,
+        "companyName": "汉德森信息科技（深圳）有限公司(吕舒萍)",
+        "tagNames": null
+      },
+      {
+        "analyse": 58.23,
+        "compare": 21.62,
+        "diff": 36.61,
+        "rate": 1.6933,
+        "accountId": 10643,
+        "companyName": "杭州启方科技有限公司 (待分配)",
+        "tagNames": null
+      },
+      {
+        "analyse": 355.61,
+        "compare": 331.02,
+        "diff": 24.590000000000032,
+        "rate": 0.0743,
+        "accountId": 6435,
+        "companyName": "北京六律科技有限责任公司(移动2)(俞陈)",
+        "tagNames": "中国移动流量"
+      },
+      {
+        "analyse": 268.37,
+        "compare": 247.26,
+        "diff": 21.110000000000014,
+        "rate": 0.0854,
+        "accountId": 3432,
+        "companyName": "上海新康进修学院(施航)",
+        "tagNames": "新康成人学历教育"
+      },
+      {
+        "analyse": 20.75,
+        "compare": 0.0,
+        "diff": 20.75,
+        "rate": 0.0,
+        "accountId": 11238,
+        "companyName": "北京字节跳动科技有限公司(HH)(彭元媛)",
+        "tagNames": null
+      },
+      {
+        "analyse": 146.98,
+        "compare": 128.07,
+        "diff": 18.909999999999997,
+        "rate": 0.1477,
+        "accountId": 7633,
+        "companyName": "无锡信成网络科技有限公司(JUQI)(赖珍梅)",
+        "tagNames": null
+      },
+      {
+        "analyse": 33.6,
+        "compare": 17.85,
+        "diff": 15.75,
+        "rate": 0.8824,
+        "accountId": 10693,
+        "companyName": "重庆天怡美装饰工程有限公司(YYR)(刘瑾)",
+        "tagNames": "天怡美装饰"
+      },
+      {
+        "analyse": 336.0,
+        "compare": 324.15,
+        "diff": 11.850000000000023,
+        "rate": 0.0366,
+        "accountId": 11329,
+        "companyName": "上海尧学教育科技有限公司(DK)(张盈盈)",
+        "tagNames": null
+      },
+      {
+        "analyse": 8.4,
+        "compare": 0.0,
+        "diff": 8.4,
+        "rate": 0.0,
+        "accountId": 10379,
+        "companyName": "深圳君银证券投资咨询顾问有限公司苏州分公司(陈苗苗)",
+        "tagNames": "jf"
+      },
+      {
+        "analyse": 72.8,
+        "compare": 64.8,
+        "diff": 8.0,
+        "rate": 0.1235,
+        "accountId": 9171,
+        "companyName": "上海商宿信息技术有限公司(DK)(张盈盈)",
+        "tagNames": "韦博英语"
+      },
+      {
+        "analyse": 379.6,
+        "compare": 373.6,
+        "diff": 6.0,
+        "rate": 0.0161,
+        "accountId": 11424,
+        "companyName": "长沙博德网络科技有限公司(直客)(庞宇宏)",
+        "tagNames": "老铁砍价"
+      },
+      {
+        "analyse": 326.7,
+        "compare": 321.7,
+        "diff": 5.0,
+        "rate": 0.0155,
+        "accountId": 10698,
+        "companyName": "西安蘑菇装饰装修设计有限公司成都分公司(YYR)(薛胜强)",
+        "tagNames": "天怡美装饰"
+      },
+      {
+        "analyse": 24.72,
+        "compare": 19.95,
+        "diff": 4.77,
+        "rate": 0.2391,
+        "accountId": 8756,
+        "companyName": "昆明五华韦博英语培训学校(施航)",
+        "tagNames": null
+      },
+      {
+        "analyse": 3.45,
+        "compare": 0.0,
+        "diff": 3.45,
+        "rate": 0.0,
+        "accountId": 5092,
+        "companyName": "运营支撑测试专用(CPA)(季小青)",
+        "tagNames": null
+      },
+      {
+        "analyse": 20.24,
+        "compare": 17.71,
+        "diff": 2.5299999999999976,
+        "rate": 0.1429,
+        "accountId": 2518,
+        "companyName": "北京六律科技有限责任公司(移动1)(佘清清)",
+        "tagNames": "中国移动流量"
+      },
+      {
+        "analyse": 6.5,
+        "compare": 4.0,
+        "diff": 2.5,
+        "rate": 0.625,
+        "accountId": 11571,
+        "companyName": "大连华讯投资股份有限公司(WQ)(董文龙)",
+        "tagNames": null
+      },
+      {
+        "analyse": 94.96,
+        "compare": 92.94,
+        "diff": 2.019999999999996,
+        "rate": 0.0217,
+        "accountId": 6434,
+        "companyName": "北京华尔街英语培训中心有限公司(SZ)(施航)",
+        "tagNames": null
+      },
+      {
+        "analyse": 1.81,
+        "compare": 0.0,
+        "diff": 1.81,
+        "rate": 0.0,
+        "accountId": 9979,
+        "companyName": "贵州茅台酒厂（集团）保健酒业销售有限公司(DK4)(俞陈)",
+        "tagNames": null
+      },
+      {
+        "analyse": 3027.5,
+        "compare": 3025.91,
+        "diff": 1.5900000000001455,
+        "rate": 5.0E-4,
+        "accountId": 10468,
+        "companyName": "海南我要玩网络科技有限公司(FF)(张盈盈)",
+        "tagNames": "传奇来了"
+      },
+      {
+        "analyse": 5.8,
+        "compare": 4.25,
+        "diff": 1.5499999999999998,
+        "rate": 0.3647,
+        "accountId": 11558,
+        "companyName": "厦门市酷游网络科技有限公司(BZ)(董文龙)",
+        "tagNames": null
+      },
+      {
+        "analyse": 999.58,
+        "compare": 998.29,
+        "diff": 1.2900000000000773,
+        "rate": 0.0013,
+        "accountId": 11494,
+        "companyName": "兴业银行股份有限公司(HT)(施航)",
+        "tagNames": "兴业银行信用卡"
+      },
+      {
+        "analyse": 2.73,
+        "compare": 1.45,
+        "diff": 1.28,
+        "rate": 0.8828,
+        "accountId": 10030,
+        "companyName": "杭州麦子汇网络技术有限公司(本地化)(李红林)",
+        "tagNames": null
+      },
+      {
+        "analyse": 1.21,
+        "compare": 0.0,
+        "diff": 1.21,
+        "rate": 0.0,
+        "accountId": 10725,
+        "companyName": "支付宝（中国）网络技术有限公司(XN)(胡逸童)",
+        "tagNames": null
+      },
+      {
+        "analyse": 1642.2,
+        "compare": 1641.0,
+        "diff": 1.2000000000000455,
+        "rate": 7.0E-4,
+        "accountId": 10117,
+        "companyName": "北京华阳创美文化科技有限公司(TZ)(董文龙)",
+        "tagNames": "779彩票"
+      },
+      {
+        "analyse": 131.6,
+        "compare": 130.4,
+        "diff": 1.1999999999999886,
+        "rate": 0.0092,
+        "accountId": 10860,
+        "companyName": "北京学而思网络科技有限公司(陈苗苗)",
+        "tagNames": null
+      },
+      {
+        "analyse": 1.05,
+        "compare": 0.0,
+        "diff": 1.05,
+        "rate": 0.0,
+        "accountId": 11756,
+        "companyName": "国泰君安证券股份有限公司上海分公司(董文龙)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.75,
+        "compare": 0.0,
+        "diff": 0.75,
+        "rate": 0.0,
+        "accountId": 11138,
+        "companyName": "东莞市国豪钟表有限公司(李红林)",
+        "tagNames": null
+      },
+      {
+        "analyse": 1.61,
+        "compare": 0.91,
+        "diff": 0.7000000000000001,
+        "rate": 0.7692,
+        "accountId": 11406,
+        "companyName": "苏州乾丰网络科技有限公司(彭元媛)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.63,
+        "compare": 0.0,
+        "diff": 0.63,
+        "rate": 0.0,
+        "accountId": 11763,
+        "companyName": "贵州百年众博文化传播有限公司(2)(李红林)",
+        "tagNames": null
+      },
+      {
+        "analyse": 1631.4,
+        "compare": 1630.8,
+        "diff": 0.6000000000001364,
+        "rate": 4.0E-4,
+        "accountId": 9870,
+        "companyName": "烟台吉安万众软件技术服务有限公司(YT)(董文龙)",
+        "tagNames": "全民赢彩票"
+      },
+      {
+        "analyse": 0.6,
+        "compare": 0.0,
+        "diff": 0.6,
+        "rate": 0.0,
+        "accountId": 9985,
+        "companyName": "北京中资北方投资顾问有限公司广州分公司(ZJWW)(肖阳)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.48,
+        "compare": 0.0,
+        "diff": 0.48,
+        "rate": 0.0,
+        "accountId": 11674,
+        "companyName": "上海诺亚金融服务股份有限公司(方愉涵)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.46,
+        "compare": 0.0,
+        "diff": 0.46,
+        "rate": 0.0,
+        "accountId": 11016,
+        "companyName": "广西誉天资产管理有限公司(董文龙)",
+        "tagNames": null
+      },
+      {
+        "analyse": 522.92,
+        "compare": 522.46,
+        "diff": 0.4599999999999227,
+        "rate": 9.0E-4,
+        "accountId": 10956,
+        "companyName": "广州万达普惠网络小额贷款有限公司(WZ)(董文龙)",
+        "tagNames": "万达普惠"
+      },
+      {
+        "analyse": 0.25,
+        "compare": 0.0,
+        "diff": 0.25,
+        "rate": 0.0,
+        "accountId": 10637,
+        "companyName": "杭州智人文化创意有限公司(本地化)(马丽娟)",
+        "tagNames": null
+      },
+      {
+        "analyse": 1.04,
+        "compare": 0.84,
+        "diff": 0.20000000000000007,
+        "rate": 0.2381,
+        "accountId": 10499,
+        "companyName": "海南六六六科技有限公司(SR)(陈苗苗)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.19,
+        "compare": 0.0,
+        "diff": 0.19,
+        "rate": 0.0,
+        "accountId": 11314,
+        "companyName": "上海游卜网络科技有限公司(直客)(施航)",
+        "tagNames": null
+      },
+      {
+        "analyse": 1.25,
+        "compare": 1.13,
+        "diff": 0.1200000000000001,
+        "rate": 0.1062,
+        "accountId": 10843,
+        "companyName": "深圳市囡囡贸易有限公司(彭元媛)",
+        "tagNames": null
+      },
+      {
+        "analyse": 1.5,
+        "compare": 1.45,
+        "diff": 0.050000000000000044,
+        "rate": 0.0345,
+        "accountId": 11531,
+        "companyName": "上海彩鸟信息科技有限公司(cpa)(彭元媛)",
+        "tagNames": null
+      },
+      {
+        "analyse": 799.9,
+        "compare": 799.85,
+        "diff": 0.049999999999954525,
+        "rate": 1.0E-4,
+        "accountId": 10551,
+        "companyName": "吞炎（上海）网络科技有限公司(胡跃波)",
+        "tagNames": "小鸟应用"
+      },
+      {
+        "analyse": 999.75,
+        "compare": 999.7,
+        "diff": 0.049999999999954525,
+        "rate": 1.0E-4,
+        "accountId": 11631,
+        "companyName": "小叶子（天津）科技有限公司(直客)(赵玉炜)",
+        "tagNames": "熊猫钢琴陪练"
+      },
+      {
+        "analyse": 0.0,
+        "compare": 0.0,
+        "diff": 0.0,
+        "rate": 0.0,
+        "accountId": 6151,
+        "companyName": "天天趣闻(MFQ)(王静)",
+        "tagNames": "天天趣闻"
+      },
+      {
+        "analyse": 0.0,
+        "compare": 0.0,
+        "diff": 0.0,
+        "rate": 0.0,
+        "accountId": 11274,
+        "companyName": "哈尔滨小虎科技有限公司(董文龙)",
+        "tagNames": null
+      },
+      {
+        "analyse": 999.9,
+        "compare": 999.9,
+        "diff": 0.0,
+        "rate": 0.0,
+        "accountId": 10763,
+        "companyName": "上海和丰永讯金融信息服务有限公司(FYR)(杨书芳)",
+        "tagNames": "京东金融"
+      },
+      {
+        "analyse": 0.0,
+        "compare": 0.0,
+        "diff": 0.0,
+        "rate": 0.0,
+        "accountId": 3090,
+        "companyName": "上海曼菱投资管理有限公司(彭元媛)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.0,
+        "compare": 0.0,
+        "diff": 0.0,
+        "rate": 0.0,
+        "accountId": 9752,
+        "companyName": "北京博星证券投资顾问有限公司(WS)(方愉涵)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.0,
+        "compare": 0.0,
+        "diff": 0.0,
+        "rate": 0.0,
+        "accountId": 10268,
+        "companyName": "北京中资北方投资顾问有限公司广州分公司(YM)(肖阳)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.0,
+        "compare": 0.0,
+        "diff": 0.0,
+        "rate": 0.0,
+        "accountId": 11292,
+        "companyName": "耐特康赛网络技术（天津）有限公司(移动5)(佘清清)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.0,
+        "compare": 0.0,
+        "diff": 0.0,
+        "rate": 0.0,
+        "accountId": 8220,
+        "companyName": "兑吧free(3)(胡迪欣)",
+        "tagNames": "兑吧"
+      },
+      {
+        "analyse": 0.0,
+        "compare": 0.0,
+        "diff": 0.0,
+        "rate": 0.0,
+        "accountId": 11296,
+        "companyName": "投资乐（上海）科技有限公司(2)(董文龙)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.0,
+        "compare": 0.0,
+        "diff": 0.0,
+        "rate": 0.0,
+        "accountId": 10798,
+        "companyName": " 福建天信投资咨询顾问股份有限公司(肖阳)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.0,
+        "compare": 0.0,
+        "diff": 0.0,
+        "rate": 0.0,
+        "accountId": 10802,
+        "companyName": "湖南巨景证券投资顾问有限公司(XM)(董文龙)",
+        "tagNames": null
+      },
+      {
+        "analyse": 99.6,
+        "compare": 99.6,
+        "diff": 0.0,
+        "rate": 0.0,
+        "accountId": 8755,
+        "companyName": "太原皓久口腔门诊管理有限公司小店大都会诊所(FF)(侯拓)",
+        "tagNames": "皓久口腔"
+      },
+      {
+        "analyse": 0.0,
+        "compare": 0.0,
+        "diff": 0.0,
+        "rate": 0.0,
+        "accountId": 11317,
+        "companyName": "上海赛歌投资咨询有限公司(FFS)(肖阳)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.0,
+        "compare": 0.0,
+        "diff": 0.0,
+        "rate": 0.0,
+        "accountId": 10816,
+        "companyName": "鑫西都（上海）商贸有限公司(董文龙)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.0,
+        "compare": 0.0,
+        "diff": 0.0,
+        "rate": 0.0,
+        "accountId": 10323,
+        "companyName": "华泰证券股份有限公司郑州经三路证券营业部(XN)(董文龙)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.0,
+        "compare": 0.0,
+        "diff": 0.0,
+        "rate": 0.0,
+        "accountId": 9819,
+        "companyName": "河南和信证券投资顾问股份有限公司(BHFF)(肖阳)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.0,
+        "compare": 0.0,
+        "diff": 0.0,
+        "rate": 0.0,
+        "accountId": 8315,
+        "companyName": "上海银行股份有限公司(by)(金梦)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.0,
+        "compare": 0.0,
+        "diff": 0.0,
+        "rate": 0.0,
+        "accountId": 11391,
+        "companyName": "广州奥买家供应链有限公司  (郑凯耀)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.0,
+        "compare": 0.0,
+        "diff": 0.0,
+        "rate": 0.0,
+        "accountId": 9858,
+        "companyName": "北京中资北方投资顾问有限公司广州分公司(LZGC)(肖阳)",
+        "tagNames": "jf"
+      },
+      {
+        "analyse": 0.0,
+        "compare": 0.0,
+        "diff": 0.0,
+        "rate": 0.0,
+        "accountId": 8331,
+        "companyName": "项目测试专用(赵沈洁)",
+        "tagNames": "支付宝"
+      },
+      {
+        "analyse": 0.0,
+        "compare": 0.0,
+        "diff": 0.0,
+        "rate": 0.0,
+        "accountId": 9868,
+        "companyName": "北京盛世华商投资咨询有限公司(LZGC)(肖阳)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.0,
+        "compare": 0.0,
+        "diff": 0.0,
+        "rate": 0.0,
+        "accountId": 11408,
+        "companyName": "贵州省仁怀市茅台镇天造酿酒有限公司(RD)(赵玉炜)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.0,
+        "compare": 0.0,
+        "diff": 0.0,
+        "rate": 0.0,
+        "accountId": 151,
+        "companyName": "zlj测试专用(待分配)",
+        "tagNames": "测试专用数据"
+      },
+      {
+        "analyse": 0.0,
+        "compare": 0.0,
+        "diff": 0.0,
+        "rate": 0.0,
+        "accountId": 11423,
+        "companyName": "众升财富（北京）基金销售有限公司(施航)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.0,
+        "compare": 0.0,
+        "diff": 0.0,
+        "rate": 0.0,
+        "accountId": 9905,
+        "companyName": "上海赛歌投资咨询有限公司(YQ)(郑涵文)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.0,
+        "compare": 0.0,
+        "diff": 0.0,
+        "rate": 0.0,
+        "accountId": 10452,
+        "companyName": "国信期货有限责任公司(XN)(董文龙)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.0,
+        "compare": 0.0,
+        "diff": 0.0,
+        "rate": 0.0,
+        "accountId": 11488,
+        "companyName": "北京信融投资管理有限公司(直客)(陈苗苗)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.0,
+        "compare": 0.0,
+        "diff": 0.0,
+        "rate": 0.0,
+        "accountId": 11495,
+        "companyName": "广州美丽佳电子商务有限公司(JX)(金梦)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.0,
+        "compare": 0.0,
+        "diff": 0.0,
+        "rate": 0.0,
+        "accountId": 9458,
+        "companyName": "贵州金窖酒业（集团）有限公司(YQ)(赵玉炜)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.0,
+        "compare": 0.0,
+        "diff": 0.0,
+        "rate": 0.0,
+        "accountId": 2292,
+        "companyName": "上海华墨展览服务有限公司(XM)(方愉涵)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.0,
+        "compare": 0.0,
+        "diff": 0.0,
+        "rate": 0.0,
+        "accountId": 9987,
+        "companyName": "北京中资北方投资顾问有限公司广州分公司(HYWD)(肖阳)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.0,
+        "compare": 0.0,
+        "diff": 0.0,
+        "rate": 0.0,
+        "accountId": 11527,
+        "companyName": "厦门指掌天下文化传媒有限公司(XN)(肖阳)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.75,
+        "compare": 0.75,
+        "diff": 0.0,
+        "rate": 0.0,
+        "accountId": 11528,
+        "companyName": "北京快彩科技有限公司(XN)(彭元媛)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.0,
+        "compare": 0.0,
+        "diff": 0.0,
+        "rate": 0.0,
+        "accountId": 11021,
+        "companyName": "四川省钱坤证券投资咨询有限公司(DK)(肖阳)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.0,
+        "compare": 0.0,
+        "diff": 0.0,
+        "rate": 0.0,
+        "accountId": 11022,
+        "companyName": "上海赛歌投资咨询有限公司(DK)(肖阳)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.0,
+        "compare": 0.0,
+        "diff": 0.0,
+        "rate": 0.0,
+        "accountId": 6419,
+        "companyName": "天天趣闻(优先)(王静)",
+        "tagNames": "内部项目,天天趣闻"
+      },
+      {
+        "analyse": 0.0,
+        "compare": 0.0,
+        "diff": 0.0,
+        "rate": 0.0,
+        "accountId": 11030,
+        "companyName": "淮北千长网络信息科技有限公司(方愉涵)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.0,
+        "compare": 0.0,
+        "diff": 0.0,
+        "rate": 0.0,
+        "accountId": 7962,
+        "companyName": "项目验证测试(MFQ)(季小青)",
+        "tagNames": "测试专用数据"
+      },
+      {
+        "analyse": 0.0,
+        "compare": 0.0,
+        "diff": 0.0,
+        "rate": 0.0,
+        "accountId": 11550,
+        "companyName": "深圳市盛天驰科技有限公司(XC)(肖阳)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.0,
+        "compare": 0.0,
+        "diff": 0.0,
+        "rate": 0.0,
+        "accountId": 11552,
+        "companyName": "北京屹品文惠科技有限公司(XC)(肖阳)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.0,
+        "compare": 0.0,
+        "diff": 0.0,
+        "rate": 0.0,
+        "accountId": 11044,
+        "companyName": "大连华讯投资股份有限公司(RY)(董文龙)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.0,
+        "compare": 0.0,
+        "diff": 0.0,
+        "rate": 0.0,
+        "accountId": 11069,
+        "companyName": "重庆海丝兰商贸有限公司(CJ)(郑涵文)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.0,
+        "compare": 0.0,
+        "diff": 0.0,
+        "rate": 0.0,
+        "accountId": 323,
+        "companyName": "兑吧free(2)(胡迪欣)",
+        "tagNames": "兑吧"
+      },
+      {
+        "analyse": 0.0,
+        "compare": 0.0,
+        "diff": 0.0,
+        "rate": 0.0,
+        "accountId": 11078,
+        "companyName": "安徽省志鹄信息科技有限公司(WS)(彭元媛)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.0,
+        "compare": 0.0,
+        "diff": 0.0,
+        "rate": 0.0,
+        "accountId": 11591,
+        "companyName": "陕西巨丰投资资讯有限责任公司福州分公司(董文龙)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.0,
+        "compare": 0.0,
+        "diff": 0.0,
+        "rate": 0.0,
+        "accountId": 8523,
+        "companyName": "互诚信息技术（上海）有限公司(1)(郑涵文)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.8,
+        "compare": 0.8,
+        "diff": 0.0,
+        "rate": 0.0,
+        "accountId": 11600,
+        "companyName": "上海彩鸟信息科技有限公司(YG)(方愉涵)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.0,
+        "compare": 0.0,
+        "diff": 0.0,
+        "rate": 0.0,
+        "accountId": 11601,
+        "companyName": "深圳市宝诺实业有限公司(肖阳)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.0,
+        "compare": 0.0,
+        "diff": 0.0,
+        "rate": 0.0,
+        "accountId": 11603,
+        "companyName": "上海库珂商贸有限公司(肖阳)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.0,
+        "compare": 0.0,
+        "diff": 0.0,
+        "rate": 0.0,
+        "accountId": 10583,
+        "companyName": "中州期货有限公司济南营业部(BC)(杨书芳)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.0,
+        "compare": 0.0,
+        "diff": 0.0,
+        "rate": 0.0,
+        "accountId": 3944,
+        "companyName": "广州经传多赢投资咨询有限公司(SZ)(方愉涵)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.0,
+        "compare": 0.0,
+        "diff": 0.0,
+        "rate": 0.0,
+        "accountId": 11633,
+        "companyName": "吉安福噢斯网络科技有限公司(XC)(肖阳)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.0,
+        "compare": 0.0,
+        "diff": 0.0,
+        "rate": 0.0,
+        "accountId": 5524,
+        "companyName": "北京赢美时代科技有限公司(MFQ)(待分配)",
+        "tagNames": "淘宝"
+      },
+      {
+        "analyse": 0.0,
+        "compare": 0.0,
+        "diff": 0.0,
+        "rate": 0.0,
+        "accountId": 6036,
+        "companyName": "支付宝公司(MFQ)(胡逸童)",
+        "tagNames": "支付宝"
+      },
+      {
+        "analyse": 0.0,
+        "compare": 0.0,
+        "diff": 0.0,
+        "rate": 0.0,
+        "accountId": 10652,
+        "companyName": "上海银行股份有限公司信用卡中心(by)(熊丹)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.0,
+        "compare": 0.0,
+        "diff": 0.0,
+        "rate": 0.0,
+        "accountId": 5535,
+        "companyName": "上海众彦信息科技有限公司(MFQ)(黄璞)",
+        "tagNames": "京东优惠,返利网"
+      },
+      {
+        "analyse": 0.0,
+        "compare": 0.0,
+        "diff": 0.0,
+        "rate": 0.0,
+        "accountId": 9639,
+        "companyName": "支付宝（中国）网络技术有限公司(WS)(胡逸童)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.0,
+        "compare": 0.0,
+        "diff": 0.0,
+        "rate": 0.0,
+        "accountId": 10162,
+        "companyName": "杭州购彩汪科技有限公司(TZ)(董文龙)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.0,
+        "compare": 0.0,
+        "diff": 0.0,
+        "rate": 0.0,
+        "accountId": 7611,
+        "companyName": "北京博星证券投资顾问有限公司(YQ)(郑涵文)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.0,
+        "compare": 0.0,
+        "diff": 0.0,
+        "rate": 0.0,
+        "accountId": 3043,
+        "companyName": "上海朗炜投资咨询中心（有限合伙）(XM)(彭元媛)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.0,
+        "compare": 0.0,
+        "diff": 0.0,
+        "rate": 0.0,
+        "accountId": 6126,
+        "companyName": "上海丰契商务咨询有限公司(彭元媛)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.0,
+        "compare": 0.0,
+        "diff": 0.0,
+        "rate": 0.0,
+        "accountId": 9198,
+        "companyName": "特伯纳斯（北京）国际教育科技有限公司(FF)(张盈盈)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.0,
+        "compare": 0.0,
+        "diff": 0.0,
+        "rate": 0.0,
+        "accountId": 11252,
+        "companyName": "深圳好彩互联网有限公司(TY)(熊丹)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.0,
+        "compare": 0.0,
+        "diff": 0.0,
+        "rate": 0.0,
+        "accountId": 7671,
+        "companyName": "北京华尔街英语培训中心有限公司(BC)(杨书芳)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.0,
+        "compare": 0.0,
+        "diff": 0.0,
+        "rate": 0.0,
+        "accountId": 9723,
+        "companyName": "四川大决策证券投资顾问有限公司济南分公司(DK)(肖阳)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.0,
+        "compare": 0.0,
+        "diff": 0.0,
+        "rate": 0.0,
+        "accountId": 10238,
+        "companyName": "深圳市怡景成科技有限公司(FFW)(俞陈)",
+        "tagNames": null
+      },
+      {
+        "analyse": 4999.69,
+        "compare": 4999.74,
+        "diff": -0.0500000000001819,
+        "rate": -0.0,
+        "accountId": 10453,
+        "companyName": "海南六六六科技有限公司(TZ)(彭元媛)",
+        "tagNames": "933彩票"
+      },
+      {
+        "analyse": 96.1,
+        "compare": 96.3,
+        "diff": -0.20000000000000284,
+        "rate": -0.0021,
+        "accountId": 11481,
+        "companyName": "浙江新通外语专修学校(JC)(待分配)",
+        "tagNames": "新通留学培训"
+      },
+      {
+        "analyse": 0.0,
+        "compare": 0.22,
+        "diff": -0.22,
+        "rate": -1.0,
+        "accountId": 10684,
+        "companyName": "福建省赢合资本商品经营有限公司 (熊丹)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.0,
+        "compare": 0.23,
+        "diff": -0.23,
+        "rate": -1.0,
+        "accountId": 10045,
+        "companyName": "西安革辛朗新能源科技有限公司(郑涵文)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.35,
+        "compare": 0.75,
+        "diff": -0.4,
+        "rate": -0.5333,
+        "accountId": 10935,
+        "companyName": "广州美云彩票科技有限公司(XN)(彭元媛)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.9,
+        "compare": 1.35,
+        "diff": -0.45000000000000007,
+        "rate": -0.3333,
+        "accountId": 11224,
+        "companyName": "北京中润互联信息技术有限公司(ZT)(彭元媛)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.35,
+        "compare": 0.85,
+        "diff": -0.5,
+        "rate": -0.5882,
+        "accountId": 10429,
+        "companyName": "广州美云彩票科技有限公司(SZ)(赖珍梅)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.0,
+        "compare": 0.5,
+        "diff": -0.5,
+        "rate": -1.0,
+        "accountId": 11153,
+        "companyName": "北京香草影堂文化发展有限责任公司(李红林)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.0,
+        "compare": 0.5,
+        "diff": -0.5,
+        "rate": -1.0,
+        "accountId": 11687,
+        "companyName": "深圳市怡景成科技有限公司(FF1)(薛胜强)",
+        "tagNames": null
+      },
+      {
+        "analyse": 1.7,
+        "compare": 2.28,
+        "diff": -0.5799999999999998,
+        "rate": -0.2544,
+        "accountId": 8531,
+        "companyName": "广州云幂信息技术有限公司(金梦)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.2,
+        "compare": 0.8,
+        "diff": -0.6000000000000001,
+        "rate": -0.75,
+        "accountId": 11315,
+        "companyName": "贵州省仁怀市黔醉酒业有限公司(郑涵文)",
+        "tagNames": null
+      },
+      {
+        "analyse": 1.47,
+        "compare": 2.08,
+        "diff": -0.6100000000000001,
+        "rate": -0.2933,
+        "accountId": 11613,
+        "companyName": "上海彩亿信息技术有限公司(XN)(熊丹)",
+        "tagNames": null
+      },
+      {
+        "analyse": 1.2,
+        "compare": 1.9,
+        "diff": -0.7,
+        "rate": -0.3684,
+        "accountId": 10988,
+        "companyName": "北京明致鸿丰彩体育科技股份有限公司(DK)(佘清清)",
+        "tagNames": null
+      },
+      {
+        "analyse": 200.21,
+        "compare": 200.93,
+        "diff": -0.7199999999999989,
+        "rate": -0.0036,
+        "accountId": 6078,
+        "companyName": "贵州省仁怀市喜来登酒业（集团）有限公司(赵玉炜)",
+        "tagNames": "货到付款"
+      },
+      {
+        "analyse": 1305.15,
+        "compare": 1305.9,
+        "diff": -0.75,
+        "rate": -6.0E-4,
+        "accountId": 8860,
+        "companyName": "上海二三四五网络科技有限公司(sz)(胡跃波)",
+        "tagNames": null
+      },
+      {
+        "analyse": 1.55,
+        "compare": 2.5,
+        "diff": -0.95,
+        "rate": -0.38,
+        "accountId": 11421,
+        "companyName": "上海彩鸟信息科技有限公司(WS)(彭元媛)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.2,
+        "compare": 1.15,
+        "diff": -0.95,
+        "rate": -0.8261,
+        "accountId": 11692,
+        "companyName": "贵州百年众博文化传播有限公司(1)(李红林)",
+        "tagNames": null
+      },
+      {
+        "analyse": 26.1,
+        "compare": 27.11,
+        "diff": -1.009999999999998,
+        "rate": -0.0373,
+        "accountId": 2577,
+        "companyName": "北京嘉日盛达电子商务有限公司(广告主1)(佘清清)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.0,
+        "compare": 1.06,
+        "diff": -1.06,
+        "rate": -1.0,
+        "accountId": 8162,
+        "companyName": "珠海横琴同成金融服务外包有限公司(by)(董文龙)",
+        "tagNames": null
+      },
+      {
+        "analyse": 10.49,
+        "compare": 11.63,
+        "diff": -1.1400000000000006,
+        "rate": -0.098,
+        "accountId": 10239,
+        "companyName": "四川省钱坤证券投资咨询有限公司(XM)(彭元媛)",
+        "tagNames": "jf"
+      },
+      {
+        "analyse": 0.65,
+        "compare": 1.95,
+        "diff": -1.2999999999999998,
+        "rate": -0.6667,
+        "accountId": 10318,
+        "companyName": "深圳市怡景成科技有限公司(SZ)(彭元媛)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.67,
+        "compare": 1.98,
+        "diff": -1.31,
+        "rate": -0.6616,
+        "accountId": 11241,
+        "companyName": "深圳市怡景成科技有限公司(DK3)(佘清清)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.0,
+        "compare": 1.35,
+        "diff": -1.35,
+        "rate": -1.0,
+        "accountId": 10828,
+        "companyName": "上海鸿玉投资咨询事务所（有限合伙）(董文龙)",
+        "tagNames": null
+      },
+      {
+        "analyse": 1.56,
+        "compare": 2.91,
+        "diff": -1.35,
+        "rate": -0.4639,
+        "accountId": 9986,
+        "companyName": "北京中资北方投资顾问有限公司广州分公司(HYJW)(肖阳)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.0,
+        "compare": 1.4,
+        "diff": -1.4,
+        "rate": -1.0,
+        "accountId": 10700,
+        "companyName": "上海浦东发展银行股份有限公司深圳分行(FF)(佘清清)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.18,
+        "compare": 1.6,
+        "diff": -1.4200000000000002,
+        "rate": -0.8875,
+        "accountId": 11599,
+        "companyName": "海南六六六科技有限公司(KY)(方愉涵)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.0,
+        "compare": 1.56,
+        "diff": -1.56,
+        "rate": -1.0,
+        "accountId": 11532,
+        "companyName": "湖南巨景证券投资顾问有限公司(FF)(肖阳)",
+        "tagNames": null
+      },
+      {
+        "analyse": 1.3,
+        "compare": 2.9,
+        "diff": -1.5999999999999999,
+        "rate": -0.5517,
+        "accountId": 10553,
+        "companyName": "北京博星证券投资顾问有限公司(DK)(张盈盈)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.28,
+        "compare": 1.93,
+        "diff": -1.65,
+        "rate": -0.8549,
+        "accountId": 10467,
+        "companyName": "烟台吉安万众软件技术服务有限公司(YS)(陈苗苗)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.74,
+        "compare": 2.44,
+        "diff": -1.7,
+        "rate": -0.6967,
+        "accountId": 10947,
+        "companyName": "海南六六六科技有限公司(DK)(佘清清)",
+        "tagNames": null
+      },
+      {
+        "analyse": 1.04,
+        "compare": 2.76,
+        "diff": -1.7199999999999998,
+        "rate": -0.6232,
+        "accountId": 10355,
+        "companyName": "海顺证券投资咨询有限公司合肥分公司(XN)(赵玉炜)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.0,
+        "compare": 1.74,
+        "diff": -1.74,
+        "rate": -1.0,
+        "accountId": 11218,
+        "companyName": "北京天相财富管理顾问有限公司上海分公司(方愉涵)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.45,
+        "compare": 2.25,
+        "diff": -1.8,
+        "rate": -0.8,
+        "accountId": 11678,
+        "companyName": "贵州百年众博文化传播有限公司(李红林)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.8,
+        "compare": 2.8,
+        "diff": -1.9999999999999998,
+        "rate": -0.7143,
+        "accountId": 11303,
+        "companyName": "厦门中证通投资咨询有限公司(XN)(彭元媛)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.4,
+        "compare": 2.4,
+        "diff": -2.0,
+        "rate": -0.8333,
+        "accountId": 11691,
+        "companyName": "杭州购彩汪科技有限公司(FT)(胡跃波)",
+        "tagNames": null
+      },
+      {
+        "analyse": 6.8,
+        "compare": 8.86,
+        "diff": -2.0599999999999996,
+        "rate": -0.2325,
+        "accountId": 10346,
+        "companyName": "海顺证券投资咨询有限公司(bnff)(肖阳)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.0,
+        "compare": 2.2,
+        "diff": -2.2,
+        "rate": -1.0,
+        "accountId": 10718,
+        "companyName": "海顺证券投资咨询有限公司合肥分公司(BC)(肖阳)",
+        "tagNames": "待定"
+      },
+      {
+        "analyse": 0.56,
+        "compare": 3.13,
+        "diff": -2.57,
+        "rate": -0.8211,
+        "accountId": 10432,
+        "companyName": "杭州购彩汪科技有限公司(WS)(陈苗苗)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.0,
+        "compare": 2.71,
+        "diff": -2.71,
+        "rate": -1.0,
+        "accountId": 11196,
+        "companyName": "广州美云彩票科技有限公司(FT)(方愉涵)",
+        "tagNames": "933彩票"
+      },
+      {
+        "analyse": 4.48,
+        "compare": 7.69,
+        "diff": -3.21,
+        "rate": -0.4174,
+        "accountId": 11187,
+        "companyName": "湖南巨景证券投资顾问有限公司(JG)(肖阳)",
+        "tagNames": "jf"
+      },
+      {
+        "analyse": 0.0,
+        "compare": 3.34,
+        "diff": -3.34,
+        "rate": -1.0,
+        "accountId": 9718,
+        "companyName": "河南和信证券投资顾问股份有限公司(LLT)(肖阳)",
+        "tagNames": null
+      },
+      {
+        "analyse": 8.8,
+        "compare": 13.75,
+        "diff": -4.949999999999999,
+        "rate": -0.36,
+        "accountId": 8572,
+        "companyName": "东莞市南城韦博培训中心(施航)",
+        "tagNames": null
+      },
+      {
+        "analyse": 3.83,
+        "compare": 9.11,
+        "diff": -5.279999999999999,
+        "rate": -0.5796,
+        "accountId": 11453,
+        "companyName": "上海大陆期货有限公司荣乐路营业部(XN)(郑涵文)",
+        "tagNames": null
+      },
+      {
+        "analyse": 7.71,
+        "compare": 13.04,
+        "diff": -5.329999999999999,
+        "rate": -0.4087,
+        "accountId": 10634,
+        "companyName": "海南精彩网络科技有限公司(ffcj)(俞陈)",
+        "tagNames": null
+      },
+      {
+        "analyse": 3.08,
+        "compare": 8.74,
+        "diff": -5.66,
+        "rate": -0.6476,
+        "accountId": 11279,
+        "companyName": "上海迈步投资管理有限公司(董文龙)",
+        "tagNames": null
+      },
+      {
+        "analyse": 1.2,
+        "compare": 7.91,
+        "diff": -6.71,
+        "rate": -0.8483,
+        "accountId": 11176,
+        "companyName": "上海银行股份有限公司卢湾支行(金梦)",
+        "tagNames": null
+      },
+      {
+        "analyse": 3.0,
+        "compare": 10.0,
+        "diff": -7.0,
+        "rate": -0.7,
+        "accountId": 7989,
+        "companyName": "北京华阳创美文化科技有限公司(DK)(佘清清)",
+        "tagNames": null
+      },
+      {
+        "analyse": 9.26,
+        "compare": 16.3,
+        "diff": -7.040000000000001,
+        "rate": -0.4319,
+        "accountId": 10570,
+        "companyName": "长春市铭悦网络科技有限公司(XM)(郑涵文)",
+        "tagNames": "全民赢彩票"
+      },
+      {
+        "analyse": 1.55,
+        "compare": 9.3,
+        "diff": -7.750000000000001,
+        "rate": -0.8333,
+        "accountId": 11144,
+        "companyName": "深圳市彩米科技有限公司(DK)(薛胜强)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.0,
+        "compare": 9.0,
+        "diff": -9.0,
+        "rate": -1.0,
+        "accountId": 9280,
+        "companyName": "上海尚普信息咨询有限公司(待分配)",
+        "tagNames": "和风留学培训"
+      },
+      {
+        "analyse": 0.0,
+        "compare": 9.2,
+        "diff": -9.2,
+        "rate": -1.0,
+        "accountId": 8861,
+        "companyName": "上海庆帆信息科技有限公司(WBYY)(马丽娟)",
+        "tagNames": null
+      },
+      {
+        "analyse": 8.75,
+        "compare": 18.56,
+        "diff": -9.809999999999999,
+        "rate": -0.5286,
+        "accountId": 8942,
+        "companyName": "武汉市武昌区韦博国际英语培训学校(施航)",
+        "tagNames": null
+      },
+      {
+        "analyse": 287.0,
+        "compare": 297.0,
+        "diff": -10.0,
+        "rate": -0.0337,
+        "accountId": 9689,
+        "companyName": "上海银行股份有限公司(YQ)(施航)",
+        "tagNames": "上海银行信用卡"
+      },
+      {
+        "analyse": 1.82,
+        "compare": 12.95,
+        "diff": -11.129999999999999,
+        "rate": -0.8595,
+        "accountId": 10750,
+        "companyName": "上海引汇金属有限公司(董文龙)",
+        "tagNames": null
+      },
+      {
+        "analyse": 26.44,
+        "compare": 38.35,
+        "diff": -11.91,
+        "rate": -0.3106,
+        "accountId": 11064,
+        "companyName": "北京冠瑞通电子商务科技股份有限公司(刘瑾)",
+        "tagNames": null
+      },
+      {
+        "analyse": 7.03,
+        "compare": 19.26,
+        "diff": -12.23,
+        "rate": -0.635,
+        "accountId": 5832,
+        "companyName": "上海新兰德证券投资咨询顾问有限公司(D)(肖阳)",
+        "tagNames": null
+      },
+      {
+        "analyse": 129.2,
+        "compare": 142.12,
+        "diff": -12.920000000000016,
+        "rate": -0.0909,
+        "accountId": 10586,
+        "companyName": "上海来伊份科技有限公司(胡跃波)",
+        "tagNames": null
+      },
+      {
+        "analyse": 25.33,
+        "compare": 40.2,
+        "diff": -14.870000000000005,
+        "rate": -0.3699,
+        "accountId": 9087,
+        "companyName": "江西省韦博职业培训学校(施航)",
+        "tagNames": null
+      },
+      {
+        "analyse": 388.05,
+        "compare": 406.0,
+        "diff": -17.94999999999999,
+        "rate": -0.0442,
+        "accountId": 10717,
+        "companyName": "重庆金科金辰酒店管理有限公司 (待分配)",
+        "tagNames": null
+      },
+      {
+        "analyse": 109.32,
+        "compare": 130.48,
+        "diff": -21.159999999999997,
+        "rate": -0.1622,
+        "accountId": 11643,
+        "companyName": "上海昌投网络科技有限公司(XN)(施航)",
+        "tagNames": null
+      },
+      {
+        "analyse": 171.22,
+        "compare": 192.69,
+        "diff": -21.47,
+        "rate": -0.1114,
+        "accountId": 10426,
+        "companyName": "英域成语言培训（上海）有限公司(SZ)(胡逸童)",
+        "tagNames": "英孚成人英语"
+      },
+      {
+        "analyse": 4625.12,
+        "compare": 4656.29,
+        "diff": -31.170000000000073,
+        "rate": -0.0067,
+        "accountId": 9714,
+        "companyName": "内蒙古同文商贸有限公司(XM)(董文龙)",
+        "tagNames": "幸运中彩票"
+      },
+      {
+        "analyse": 202.49,
+        "compare": 242.7,
+        "diff": -40.20999999999998,
+        "rate": -0.1657,
+        "accountId": 11614,
+        "companyName": "北京甲子营科技有限公司   (熊丹)",
+        "tagNames": null
+      },
+      {
+        "analyse": 16.64,
+        "compare": 63.6,
+        "diff": -46.96,
+        "rate": -0.7384,
+        "accountId": 8571,
+        "companyName": "杭州市余杭区华博特专修学校(吕舒萍)",
+        "tagNames": null
+      },
+      {
+        "analyse": 7661.87,
+        "compare": 7710.13,
+        "diff": -48.26000000000022,
+        "rate": -0.0063,
+        "accountId": 11133,
+        "companyName": "广州倍享生物科技有限公司(熊丹)",
+        "tagNames": "货到付款"
+      },
+      {
+        "analyse": 3097.0,
+        "compare": 3151.25,
+        "diff": -54.25,
+        "rate": -0.0172,
+        "accountId": 10588,
+        "companyName": "上海二三四五网络科技有限公司(增值)(胡逸童)",
+        "tagNames": null
+      },
+      {
+        "analyse": 392.25,
+        "compare": 447.3,
+        "diff": -55.05000000000001,
+        "rate": -0.1231,
+        "accountId": 11147,
+        "companyName": "史云逊护发（北京）有限公司(YR)(刘瑾)",
+        "tagNames": "史云逊护发"
+      },
+      {
+        "analyse": 0.0,
+        "compare": 56.8,
+        "diff": -56.8,
+        "rate": -1.0,
+        "accountId": 11389,
+        "companyName": "汉诚信息技术（上海）有限公司(庞宇宏)",
+        "tagNames": null
+      },
+      {
+        "analyse": 141.48,
+        "compare": 199.29,
+        "diff": -57.81,
+        "rate": -0.2901,
+        "accountId": 11400,
+        "companyName": "上海谦米教育科技有限公司(ZS)(施航)",
+        "tagNames": null
+      },
+      {
+        "analyse": 52.39,
+        "compare": 117.68,
+        "diff": -65.29,
+        "rate": -0.5548,
+        "accountId": 11670,
+        "companyName": "华夏人寿保险股份有限公司(NX)(吕舒萍)",
+        "tagNames": "测试专用数据"
+      },
+      {
+        "analyse": 3977.32,
+        "compare": 4042.68,
+        "diff": -65.35999999999967,
+        "rate": -0.0162,
+        "accountId": 6209,
+        "companyName": "上海硬通网络科技有限公司(WS)(郑涵文)",
+        "tagNames": "战神破晓"
+      },
+      {
+        "analyse": 106.22,
+        "compare": 175.72,
+        "diff": -69.5,
+        "rate": -0.3955,
+        "accountId": 10351,
+        "companyName": "深圳房金所金融服务股份有限公司(FF)(俞陈)",
+        "tagNames": "测试专用数据"
+      },
+      {
+        "analyse": 96.12,
+        "compare": 167.37,
+        "diff": -71.25,
+        "rate": -0.4257,
+        "accountId": 8962,
+        "companyName": "北京东方时海科技有限公司(YQ)(施航)",
+        "tagNames": null
+      },
+      {
+        "analyse": 138.05,
+        "compare": 211.14,
+        "diff": -73.08999999999997,
+        "rate": -0.3462,
+        "accountId": 8144,
+        "companyName": "平安银行股份有限公司信用卡中心(by)(方愉涵)",
+        "tagNames": "平安银行信用卡"
+      },
+      {
+        "analyse": 0.0,
+        "compare": 73.8,
+        "diff": -73.8,
+        "rate": -1.0,
+        "accountId": 10939,
+        "companyName": "上海衣页信息科技有限公司(XN)(彭元媛)",
+        "tagNames": "待定"
+      },
+      {
+        "analyse": 258.55,
+        "compare": 333.9,
+        "diff": -75.34999999999997,
+        "rate": -0.2257,
+        "accountId": 9457,
+        "companyName": "广州银行股份有限公司(by)(金梦)",
+        "tagNames": null
+      },
+      {
+        "analyse": 589.85,
+        "compare": 670.05,
+        "diff": -80.19999999999993,
+        "rate": -0.1197,
+        "accountId": 11485,
+        "companyName": "深圳一比分体育科技有限公司(DK)(张盈盈)",
+        "tagNames": null
+      },
+      {
+        "analyse": 753.16,
+        "compare": 837.52,
+        "diff": -84.36000000000001,
+        "rate": -0.1007,
+        "accountId": 9557,
+        "companyName": "深圳唯学教育科技有限公司(FF)(张盈盈)",
+        "tagNames": "唯学成人学历教育"
+      },
+      {
+        "analyse": 0.0,
+        "compare": 89.6,
+        "diff": -89.6,
+        "rate": -1.0,
+        "accountId": 6964,
+        "companyName": "新疆美月母婴护理服务有限公司(WD)(张盈盈)",
+        "tagNames": "待定"
+      },
+      {
+        "analyse": 378.53,
+        "compare": 475.4,
+        "diff": -96.87,
+        "rate": -0.2038,
+        "accountId": 6096,
+        "companyName": "沪江教育科技（上海）股份有限公司(圈新)(陈苗苗)",
+        "tagNames": null
+      },
+      {
+        "analyse": 299.65,
+        "compare": 399.85,
+        "diff": -100.20000000000005,
+        "rate": -0.2506,
+        "accountId": 11082,
+        "companyName": "北京微字节网络科技有限公司(XM)(佘清清)",
+        "tagNames": null
+      },
+      {
+        "analyse": 167.2,
+        "compare": 271.6,
+        "diff": -104.40000000000003,
+        "rate": -0.3844,
+        "accountId": 8710,
+        "companyName": "上海青墨网络科技有限公司(XM1)(陈苗苗)",
+        "tagNames": null
+      },
+      {
+        "analyse": 108.18,
+        "compare": 214.55,
+        "diff": -106.37,
+        "rate": -0.4958,
+        "accountId": 8685,
+        "companyName": "上海融之家金融信息服务有限公司(XM)(施航)",
+        "tagNames": null
+      },
+      {
+        "analyse": 150.88,
+        "compare": 259.96,
+        "diff": -109.07999999999998,
+        "rate": -0.4196,
+        "accountId": 9851,
+        "companyName": "广州中科英冠电子科技有限公司(赖珍梅)",
+        "tagNames": "货到付款"
+      },
+      {
+        "analyse": 16.17,
+        "compare": 125.65,
+        "diff": -109.48,
+        "rate": -0.8713,
+        "accountId": 11034,
+        "companyName": "北京科联美创电子商务有限公司(佘清清)",
+        "tagNames": "货到付款"
+      },
+      {
+        "analyse": 25.5,
+        "compare": 140.3,
+        "diff": -114.80000000000001,
+        "rate": -0.8182,
+        "accountId": 11565,
+        "companyName": "北京大米未来科技有限公司(JQ)(刘瑾)",
+        "tagNames": "待定"
+      },
+      {
+        "analyse": 1264.69,
+        "compare": 1379.51,
+        "diff": -114.81999999999994,
+        "rate": -0.0832,
+        "accountId": 9678,
+        "companyName": "武汉兴盛杰科技有限公司(赵玉炜)",
+        "tagNames": "货到付款"
+      },
+      {
+        "analyse": 1126.65,
+        "compare": 1242.15,
+        "diff": -115.5,
+        "rate": -0.093,
+        "accountId": 11357,
+        "companyName": "成都市乐优炫彩科技有限公司(DK)(张盈盈)",
+        "tagNames": "待定"
+      },
+      {
+        "analyse": 3201.3,
+        "compare": 3353.1,
+        "diff": -151.79999999999973,
+        "rate": -0.0453,
+        "accountId": 3925,
+        "companyName": "烟台吉安万众软件技术服务有限公司(董文龙)",
+        "tagNames": "我去彩票站,977彩票"
+      },
+      {
+        "analyse": 2092.57,
+        "compare": 2253.0,
+        "diff": -160.42999999999984,
+        "rate": -0.0712,
+        "accountId": 5760,
+        "companyName": "广东万丈金数信息技术股份有限公司(保险)(金梦)",
+        "tagNames": "万丈保险组合"
+      },
+      {
+        "analyse": 453.6,
+        "compare": 620.29,
+        "diff": -166.68999999999994,
+        "rate": -0.2687,
+        "accountId": 11520,
+        "companyName": "上海基分文化传播有限公司(KY)(方愉涵)",
+        "tagNames": "趣头条"
+      },
+      {
+        "analyse": 340.01,
+        "compare": 510.18,
+        "diff": -170.17000000000002,
+        "rate": -0.3335,
+        "accountId": 8587,
+        "companyName": "深圳市韦博英语培训中心(施航)",
+        "tagNames": "韦博英语"
+      },
+      {
+        "analyse": 630.68,
+        "compare": 809.54,
+        "diff": -178.86,
+        "rate": -0.2209,
+        "accountId": 10372,
+        "companyName": "北京六律科技有限责任公司(DK)(薛胜强)",
+        "tagNames": "中国移动流量"
+      },
+      {
+        "analyse": 641.0,
+        "compare": 822.0,
+        "diff": -181.0,
+        "rate": -0.2202,
+        "accountId": 10076,
+        "companyName": "有品信息科技有限公司(FFS)(张盈盈)",
+        "tagNames": "小米有品"
+      },
+      {
+        "analyse": 665.15,
+        "compare": 849.75,
+        "diff": -184.60000000000002,
+        "rate": -0.2172,
+        "accountId": 10696,
+        "companyName": "西安零元素装饰设计工程有限公司(YYR)(薛胜强)",
+        "tagNames": "零元素"
+      },
+      {
+        "analyse": 1466.42,
+        "compare": 1696.46,
+        "diff": -230.03999999999996,
+        "rate": -0.1356,
+        "accountId": 10630,
+        "companyName": "深圳市西游网网络科技有限公司(BC)(杨书芳)",
+        "tagNames": "西游车展"
+      },
+      {
+        "analyse": 12.09,
+        "compare": 270.3,
+        "diff": -258.21000000000004,
+        "rate": -0.9553,
+        "accountId": 8732,
+        "companyName": "上海浦东发展银行股份有限公司信用卡中心(HSL)(方愉涵)",
+        "tagNames": "浦发银行信用卡"
+      },
+      {
+        "analyse": 963.23,
+        "compare": 1224.27,
+        "diff": -261.03999999999996,
+        "rate": -0.2132,
+        "accountId": 11379,
+        "companyName": "北京伟略文化传播有限公司(WL)(张盈盈)",
+        "tagNames": "360贷款导航"
+      },
+      {
+        "analyse": 241.7,
+        "compare": 502.8,
+        "diff": -261.1,
+        "rate": -0.5193,
+        "accountId": 9018,
+        "companyName": "广东万丈金数信息技术股份有限公司(信用卡)(金梦)",
+        "tagNames": "万丈信用卡组合"
+      },
+      {
+        "analyse": 471.52,
+        "compare": 795.79,
+        "diff": -324.27,
+        "rate": -0.4075,
+        "accountId": 11470,
+        "companyName": "中信银行股份有限公司上海中信广场支行(金梦)",
+        "tagNames": "中信银行信用卡"
+      },
+      {
+        "analyse": 119.71,
+        "compare": 456.6,
+        "diff": -336.89000000000004,
+        "rate": -0.7378,
+        "accountId": 9686,
+        "companyName": "北京六律科技有限责任公司(WS)(金梦)",
+        "tagNames": "中国移动流量"
+      },
+      {
+        "analyse": 3941.79,
+        "compare": 4303.37,
+        "diff": -361.5799999999999,
+        "rate": -0.084,
+        "accountId": 7739,
+        "companyName": "嘉兴游辰网络科技有限公司(DK)(刘瑾)",
+        "tagNames": "传奇来了,新热血屠龙"
+      },
+      {
+        "analyse": 625.8,
+        "compare": 999.76,
+        "diff": -373.96000000000004,
+        "rate": -0.374,
+        "accountId": 11200,
+        "companyName": "谛听网络技术（杭州）有限公司(郑涵文)",
+        "tagNames": "环球黑卡"
+      },
+      {
+        "analyse": 445.45,
+        "compare": 837.0,
+        "diff": -391.55,
+        "rate": -0.4678,
+        "accountId": 11381,
+        "companyName": "广州热血信息技术有限责任公司(FF)(刘瑾)",
+        "tagNames": "传奇来了"
+      },
+      {
+        "analyse": 713.75,
+        "compare": 1127.17,
+        "diff": -413.4200000000001,
+        "rate": -0.3668,
+        "accountId": 11159,
+        "companyName": "天津合时合适食品有限公司  (待分配)",
+        "tagNames": "测试专用数据"
+      },
+      {
+        "analyse": 0.0,
+        "compare": 420.4,
+        "diff": -420.4,
+        "rate": -1.0,
+        "accountId": 11203,
+        "companyName": "杭州冒险元素网络技术有限公司(DK)(张盈盈)",
+        "tagNames": "环球黑卡"
+      },
+      {
+        "analyse": 2788.81,
+        "compare": 3226.59,
+        "diff": -437.7800000000002,
+        "rate": -0.1357,
+        "accountId": 8146,
+        "companyName": "深圳市前海山晟金融服务有限公司(by)(董文龙)",
+        "tagNames": "贷款超市"
+      },
+      {
+        "analyse": 4892.81,
+        "compare": 5350.61,
+        "diff": -457.7999999999993,
+        "rate": -0.0856,
+        "accountId": 11204,
+        "companyName": "北京车之家信息技术有限公司(郑涵文)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.63,
+        "compare": 500.0,
+        "diff": -499.37,
+        "rate": -0.9987,
+        "accountId": 7317,
+        "companyName": "广州数融互联网小额贷款有限公司(佘清清)",
+        "tagNames": "待定"
+      },
+      {
+        "analyse": 1999.9,
+        "compare": 2500.0,
+        "diff": -500.0999999999999,
+        "rate": -0.2,
+        "accountId": 10455,
+        "companyName": "北京搜狐新媒体信息技术有限公司(BC)(佘清清)",
+        "tagNames": "沙发视频"
+      },
+      {
+        "analyse": 750.77,
+        "compare": 1319.09,
+        "diff": -568.3199999999999,
+        "rate": -0.4308,
+        "accountId": 10987,
+        "companyName": "广州能西信息科技有限公司(1)(吕舒萍)",
+        "tagNames": "浦发银行信用卡"
+      },
+      {
+        "analyse": 10016.07,
+        "compare": 10606.11,
+        "diff": -590.0400000000009,
+        "rate": -0.0556,
+        "accountId": 11276,
+        "companyName": "北京易美家科技有限公司(董文龙)",
+        "tagNames": "jf"
+      },
+      {
+        "analyse": 10775.94,
+        "compare": 11407.71,
+        "diff": -631.7699999999986,
+        "rate": -0.0554,
+        "accountId": 9437,
+        "companyName": "上海二三四五网络科技有限公司(FF)(薛胜强)",
+        "tagNames": "星球联盟"
+      },
+      {
+        "analyse": 1052.4,
+        "compare": 1706.8,
+        "diff": -654.3999999999999,
+        "rate": -0.3834,
+        "accountId": 11665,
+        "companyName": "睿智合创（北京）科技有限公司(杨书芳)",
+        "tagNames": "快易省"
+      },
+      {
+        "analyse": 1175.29,
+        "compare": 1892.27,
+        "diff": -716.98,
+        "rate": -0.3789,
+        "accountId": 8618,
+        "companyName": "中信银行股份有限公司信用卡中心兰州分中心(by)(金梦)",
+        "tagNames": "中信银行信用卡"
+      },
+      {
+        "analyse": 3547.45,
+        "compare": 4273.02,
+        "diff": -725.5700000000006,
+        "rate": -0.1698,
+        "accountId": 11242,
+        "companyName": "北京华尔街英语培训中心有限公司(XM)(杨书芳)",
+        "tagNames": "华尔街成人英语"
+      },
+      {
+        "analyse": 75.1,
+        "compare": 804.6,
+        "diff": -729.5,
+        "rate": -0.9067,
+        "accountId": 11656,
+        "companyName": "杭州牧也网络科技有限公司(李红林)",
+        "tagNames": "待定"
+      },
+      {
+        "analyse": 4978.67,
+        "compare": 5713.41,
+        "diff": -734.7399999999998,
+        "rate": -0.1286,
+        "accountId": 8005,
+        "companyName": "广州市因地利信息科技有限公司(施航)",
+        "tagNames": "招商银行信用卡"
+      },
+      {
+        "analyse": 4566.25,
+        "compare": 5498.39,
+        "diff": -932.1400000000003,
+        "rate": -0.1695,
+        "accountId": 614,
+        "companyName": "深圳萨摩耶互联网金融服务有限公司(董文龙)",
+        "tagNames": "省呗"
+      },
+      {
+        "analyse": 236.65,
+        "compare": 1172.82,
+        "diff": -936.17,
+        "rate": -0.7982,
+        "accountId": 11038,
+        "companyName": "北京晟宏教育咨询有限公司(DK3)(张盈盈)",
+        "tagNames": "晟宏成人学历教育"
+      },
+      {
+        "analyse": 3.24,
+        "compare": 942.38,
+        "diff": -939.14,
+        "rate": -0.9966,
+        "accountId": 7054,
+        "companyName": "华创期货有限责任公司(FF)(肖阳)",
+        "tagNames": "待定"
+      },
+      {
+        "analyse": 825.86,
+        "compare": 1844.48,
+        "diff": -1018.62,
+        "rate": -0.5523,
+        "accountId": 7877,
+        "companyName": "上海彩鸟信息科技有限公司(BM)(方愉涵)",
+        "tagNames": "大胜彩票"
+      },
+      {
+        "analyse": 2847.22,
+        "compare": 3962.48,
+        "diff": -1115.2600000000002,
+        "rate": -0.2815,
+        "accountId": 7558,
+        "companyName": "苏州市新佳艺纺织有限公司(SS)(赖珍梅)",
+        "tagNames": "货到付款"
+      },
+      {
+        "analyse": 7325.95,
+        "compare": 8445.2,
+        "diff": -1119.250000000001,
+        "rate": -0.1325,
+        "accountId": 10826,
+        "companyName": "上海筑懿投资管理有限公司(XN)(郑涵文)",
+        "tagNames": null
+      },
+      {
+        "analyse": 825.37,
+        "compare": 2022.48,
+        "diff": -1197.1100000000001,
+        "rate": -0.5919,
+        "accountId": 10459,
+        "companyName": "中信银行股份有限公司信用卡中心(FFW)(薛胜强)",
+        "tagNames": "中信银行信用卡"
+      },
+      {
+        "analyse": 4.26,
+        "compare": 1255.48,
+        "diff": -1251.22,
+        "rate": -0.9966,
+        "accountId": 9857,
+        "companyName": "北京中资北方投资顾问有限公司广州分公司(FRKJ)(肖阳)",
+        "tagNames": null
+      },
+      {
+        "analyse": 347.09,
+        "compare": 1706.96,
+        "diff": -1359.8700000000001,
+        "rate": -0.7967,
+        "accountId": 3279,
+        "companyName": "英域成语言培训（南京）有限公司(胡逸童)",
+        "tagNames": "英孚成人英语"
+      },
+      {
+        "analyse": 4319.4,
+        "compare": 5686.13,
+        "diff": -1366.7300000000005,
+        "rate": -0.2404,
+        "accountId": 5635,
+        "companyName": "上海基分文化传播有限公司(XM)(胡逸童)",
+        "tagNames": "趣头条"
+      },
+      {
+        "analyse": 2595.78,
+        "compare": 4128.38,
+        "diff": -1532.6,
+        "rate": -0.3712,
+        "accountId": 11364,
+        "companyName": "河北顺诺商贸有限公司(JR)(熊丹)",
+        "tagNames": "货到付款"
+      },
+      {
+        "analyse": 15635.78,
+        "compare": 17169.21,
+        "diff": -1533.4299999999985,
+        "rate": -0.0893,
+        "accountId": 10971,
+        "companyName": "贵州厚礼品牌管理有限公司(XN)(赵玉炜)",
+        "tagNames": "货到付款"
+      },
+      {
+        "analyse": 11604.48,
+        "compare": 13216.45,
+        "diff": -1611.9700000000012,
+        "rate": -0.122,
+        "accountId": 8319,
+        "companyName": "中信银行股份有限公司北京富力支行(金梦)",
+        "tagNames": "中信银行信用卡"
+      },
+      {
+        "analyse": 3320.7,
+        "compare": 4998.8,
+        "diff": -1678.1000000000004,
+        "rate": -0.3357,
+        "accountId": 10214,
+        "companyName": "兴业银行股份有限公司广州分行(by)(陈苗苗)",
+        "tagNames": "兴业银行信用卡"
+      },
+      {
+        "analyse": 1322.89,
+        "compare": 3012.98,
+        "diff": -1690.09,
+        "rate": -0.5609,
+        "accountId": 5713,
+        "companyName": "上海新旦营销管理股份有限公司(XM)(陈苗苗)",
+        "tagNames": "新旦保险"
+      },
+      {
+        "analyse": 2463.4,
+        "compare": 4180.2,
+        "diff": -1716.7999999999997,
+        "rate": -0.4107,
+        "accountId": 11102,
+        "companyName": "挂号网（杭州）科技有限公司(XXN)(庞宇宏)",
+        "tagNames": "微医&汪正影业"
+      },
+      {
+        "analyse": 8881.04,
+        "compare": 10720.24,
+        "diff": -1839.199999999999,
+        "rate": -0.1716,
+        "accountId": 10316,
+        "companyName": "霍尔果斯太白网络科技有限公司(DK)(俞陈)",
+        "tagNames": "货到付款"
+      },
+      {
+        "analyse": 181.12,
+        "compare": 2038.38,
+        "diff": -1857.2600000000002,
+        "rate": -0.9111,
+        "accountId": 11160,
+        "companyName": "天津津钰食品有限公司(JH)(待分配)",
+        "tagNames": "测试专用数据"
+      },
+      {
+        "analyse": 386.65,
+        "compare": 2273.22,
+        "diff": -1886.5699999999997,
+        "rate": -0.8299,
+        "accountId": 9282,
+        "companyName": "兴业银行股份有限公司(by)(陈苗苗)",
+        "tagNames": "兴业银行信用卡"
+      },
+      {
+        "analyse": 180.0,
+        "compare": 2140.66,
+        "diff": -1960.6599999999999,
+        "rate": -0.9159,
+        "accountId": 11593,
+        "companyName": "北京中和应泰财务顾问有限公司(BQ)(胡跃波)",
+        "tagNames": null
+      },
+      {
+        "analyse": 2499.16,
+        "compare": 4502.2,
+        "diff": -2003.04,
+        "rate": -0.4449,
+        "accountId": 2367,
+        "companyName": "北京奇才天下科技有限公司(杨书芳)",
+        "tagNames": "360贷款导航"
+      },
+      {
+        "analyse": 5.04,
+        "compare": 2010.03,
+        "diff": -2004.99,
+        "rate": -0.9975,
+        "accountId": 11334,
+        "companyName": "四川省钱坤证券投资咨询有限公司(FFSS)(肖阳)",
+        "tagNames": null
+      },
+      {
+        "analyse": 23995.11,
+        "compare": 26033.41,
+        "diff": -2038.2999999999993,
+        "rate": -0.0783,
+        "accountId": 9092,
+        "companyName": "上海二三四五网络科技有限公司(wz)(胡逸童)",
+        "tagNames": "星球联盟"
+      },
+      {
+        "analyse": 24080.51,
+        "compare": 26208.12,
+        "diff": -2127.6100000000006,
+        "rate": -0.0812,
+        "accountId": 5471,
+        "companyName": "横琴蓥酆金融服务有限公司(YQ)(董文龙)",
+        "tagNames": "jf"
+      },
+      {
+        "analyse": 2303.39,
+        "compare": 4644.84,
+        "diff": -2341.4500000000003,
+        "rate": -0.5041,
+        "accountId": 8028,
+        "companyName": "北京飞腾时光信息科技有限公司(移动3)(俞陈)",
+        "tagNames": "中国移动流量,测试专用数据"
+      },
+      {
+        "analyse": 1001.1,
+        "compare": 3499.25,
+        "diff": -2498.15,
+        "rate": -0.7139,
+        "accountId": 9472,
+        "companyName": "深圳市闪拍精灵网络技术有限公司(YQ2)(陈苗苗)",
+        "tagNames": "惠拍优品"
+      },
+      {
+        "analyse": 70172.06,
+        "compare": 72728.57,
+        "diff": -2556.5100000000093,
+        "rate": -0.0352,
+        "accountId": 390,
+        "companyName": "上海淇毓信息科技有限公司(杨书芳)",
+        "tagNames": "360借条"
+      },
+      {
+        "analyse": 5392.93,
+        "compare": 8315.48,
+        "diff": -2922.5499999999993,
+        "rate": -0.3515,
+        "accountId": 11302,
+        "companyName": "青岛市大摩投资咨询有限公司(XN)(方愉涵)",
+        "tagNames": null
+      },
+      {
+        "analyse": 0.2,
+        "compare": 3002.73,
+        "diff": -3002.53,
+        "rate": -0.9999,
+        "accountId": 10558,
+        "companyName": "大连华讯投资股份有限公司(bhff)(肖阳)",
+        "tagNames": null
+      },
+      {
+        "analyse": 11149.05,
+        "compare": 14310.98,
+        "diff": -3161.9300000000003,
+        "rate": -0.2209,
+        "accountId": 10611,
+        "companyName": "贵州省仁怀市茅台镇天造酿酒有限公司(XN)(郑涵文)",
+        "tagNames": "待定"
+      },
+      {
+        "analyse": 3103.37,
+        "compare": 6507.45,
+        "diff": -3404.08,
+        "rate": -0.5231,
+        "accountId": 11509,
+        "companyName": "韩城集升商贸有限公司(郑涵文)",
+        "tagNames": null
+      },
+      {
+        "analyse": 7254.42,
+        "compare": 10703.9,
+        "diff": -3449.4799999999996,
+        "rate": -0.3223,
+        "accountId": 7327,
+        "companyName": "中国平安人寿保险股份有限公司(WS)(金梦)",
+        "tagNames": "平安保险"
+      },
+      {
+        "analyse": 498.41,
+        "compare": 4271.44,
+        "diff": -3773.0299999999997,
+        "rate": -0.8833,
+        "accountId": 11540,
+        "companyName": "浙江九翎网络科技有限公司(FF1)(肖阳)",
+        "tagNames": "魔域游戏,待定"
+      },
+      {
+        "analyse": 3.4,
+        "compare": 3787.5,
+        "diff": -3784.1,
+        "rate": -0.9991,
+        "accountId": 10879,
+        "companyName": "上海筑懿投资管理有限公司(DK2)(肖阳)",
+        "tagNames": "jf"
+      },
+      {
+        "analyse": 0.0,
+        "compare": 4000.0,
+        "diff": -4000.0,
+        "rate": -1.0,
+        "accountId": 11644,
+        "companyName": "百度在线网络技术（北京）有限公司(直客CPA)(郑凯耀)",
+        "tagNames": "星球联盟,百度有钱花"
+      },
+      {
+        "analyse": 2118.18,
+        "compare": 6190.14,
+        "diff": -4071.9600000000005,
+        "rate": -0.6578,
+        "accountId": 6286,
+        "companyName": "天天趣闻(付费)(杨璐)",
+        "tagNames": "天天趣闻"
+      },
+      {
+        "analyse": 7321.18,
+        "compare": 11423.16,
+        "diff": -4101.98,
+        "rate": -0.3591,
+        "accountId": 11460,
+        "companyName": "银获（上海）资产管理有限公司(XN)(董文龙)",
+        "tagNames": "jf"
+      },
+      {
+        "analyse": 1907.83,
+        "compare": 6078.32,
+        "diff": -4170.49,
+        "rate": -0.6861,
+        "accountId": 10290,
+        "companyName": "贵州金窖酒业（集团）有限公司(XN)(赵玉炜)",
+        "tagNames": "货到付款"
+      },
+      {
+        "analyse": 7032.5,
+        "compare": 11220.01,
+        "diff": -4187.51,
+        "rate": -0.3732,
+        "accountId": 7553,
+        "companyName": "天津皓德丰贸易有限公司(赖珍梅)",
+        "tagNames": "货到付款"
+      },
+      {
+        "analyse": 26298.44,
+        "compare": 31422.88,
+        "diff": -5124.440000000002,
+        "rate": -0.1631,
+        "accountId": 11277,
+        "companyName": "河南和信证券投资顾问股份有限公司山东分公司(肖阳)",
+        "tagNames": "jf"
+      },
+      {
+        "analyse": 22955.02,
+        "compare": 29834.81,
+        "diff": -6879.790000000001,
+        "rate": -0.2306,
+        "accountId": 10428,
+        "companyName": "霍尔果斯太白网络科技有限公司(DK2)(俞陈)",
+        "tagNames": "货到付款"
+      },
+      {
+        "analyse": 5263.19,
+        "compare": 12732.51,
+        "diff": -7469.320000000001,
+        "rate": -0.5866,
+        "accountId": 11508,
+        "companyName": "国泰君安证券股份有限公司(XN)(郑涵文)",
+        "tagNames": null
+      },
+      {
+        "analyse": 10368.74,
+        "compare": 17856.37,
+        "diff": -7487.629999999999,
+        "rate": -0.4193,
+        "accountId": 11272,
+        "companyName": "广州市万隆证券咨询顾问有限公司(XN)(郑涵文)",
+        "tagNames": "jf"
+      },
+      {
+        "analyse": 6661.46,
+        "compare": 14226.76,
+        "diff": -7565.3,
+        "rate": -0.5318,
+        "accountId": 11114,
+        "companyName": "上海新汇通投资顾问有限公司(肖阳)",
+        "tagNames": null
+      },
+      {
+        "analyse": 4887.81,
+        "compare": 12513.41,
+        "diff": -7625.599999999999,
+        "rate": -0.6094,
+        "accountId": 9620,
+        "companyName": "无锡信成网络科技有限公司(WS)(陈苗苗)",
+        "tagNames": "黑牛保险"
+      },
+      {
+        "analyse": 10637.7,
+        "compare": 19143.31,
+        "diff": -8505.61,
+        "rate": -0.4443,
+        "accountId": 11555,
+        "companyName": "贵州黔醉酒业（集团）有限公司(XN)(赵玉炜)",
+        "tagNames": "货到付款"
+      },
+      {
+        "analyse": 9670.71,
+        "compare": 21577.39,
+        "diff": -11906.68,
+        "rate": -0.5518,
+        "accountId": 11271,
+        "companyName": "上海偃蹇网络科技有限公司(XN)(董文龙)",
+        "tagNames": "jf"
+      },
+      {
+        "analyse": 2281.37,
+        "compare": 15525.23,
+        "diff": -13243.86,
+        "rate": -0.8531,
+        "accountId": 9856,
+        "companyName": "海顺证券投资咨询有限公司合肥分公司(llt)(肖阳)",
+        "tagNames": null
+      },
+      {
+        "analyse": 3773.62,
+        "compare": 18420.13,
+        "diff": -14646.510000000002,
+        "rate": -0.7951,
+        "accountId": 7029,
+        "companyName": "杭州冒险元素网络技术有限公司(YQ)(郑涵文)",
+        "tagNames": "环球黑卡"
+      },
+      {
+        "analyse": 18575.14,
+        "compare": 36775.18,
+        "diff": -18200.04,
+        "rate": -0.4949,
+        "accountId": 9716,
+        "companyName": "北京中资北方投资顾问有限公司广州分公司(LLT)(肖阳)",
+        "tagNames": "jf"
+      },
+      {
+        "analyse": 854.31,
+        "compare": 19563.41,
+        "diff": -18709.1,
+        "rate": -0.9563,
+        "accountId": 11298,
+        "companyName": "四川省钱坤证券投资咨询有限公司(FFS)(肖阳)",
+        "tagNames": null
+      }
+    ]
+  }
+}

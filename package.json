@@ -1,0 +1,22 @@
+{
+  "name": "earth",
+  "version": "0.0.1",
+  "description": "d3 for react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/suoutsky/earth.git"
+  },
+  "keywords": [
+    "d3"
+  ],
+  "author": "nemo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/suoutsky/earth/issues"
+  },
+  "homepage": "https://github.com/suoutsky/earth#readme"
+}
