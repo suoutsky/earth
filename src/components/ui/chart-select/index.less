@@ -1,0 +1,59 @@
+.chart_area {
+  padding: 16px 60px 16px 16px;
+  display: flex;
+  height: 414px;
+  background: #fff;
+  .chart_select {
+    flex: 6;
+  }
+  .chart_filter_warp {
+    flex: 1;
+    .chart_filter {
+      float: right;
+      :global(.ant-select-selection) {
+        height: 40px;
+        :global(.ant-select-selection__rendered) {
+          height: 40px;
+          :global(.ant-select-selection-selected-value) {
+            line-height: 40px;
+          }
+        }
+      }
+    }
+    .total {
+      font-size: 14px;
+      .item {
+        .a {
+          margin-top: 24px;
+          background-color: #1890FF;
+        }
+        .b {
+          background-color: #2FC25B;
+        }
+        .c {
+          background-color: #FACC14;
+        }
+        .d {
+          background-color: #223273;
+        }
+        .e {
+          background-color: #d87a80;
+        }
+        span {
+          display: inline-block;
+          width: 8px;
+          height: 8px;
+          border-radius: 100%;
+          margin-right: 8px;
+          font-weight:400;
+        }
+        .num {
+          padding-top: 6px;
+          padding-bottom: 24px;
+          font-size: 20px;
+          font-weight:400;
+        }
+      }
+    }
+  }
+}

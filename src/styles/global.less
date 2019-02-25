@@ -1,0 +1,29 @@
+/*
+ * 全局less变量
+ */
+ @import '~antd/dist/antd.less';
+ // 气泡隐藏
+ .ant-menu-submenu-popup {
+    display: none;
+  }
+  .ant-menu-dark {
+    background-color: #242C3B;
+    color: rgba(255, 255, 255, 0.65);
+    position: relative;
+    z-index: 1;
+  }
+  .ant-menu-item {
+    background-color: #18202E;
+    color: rgba(255, 255, 255, 0.65)
+  }
+  .ant-menu-item-selected {
+    background-color: #1890FF !important;
+    color: rgba(255, 255, 255, 1) !important;
+    &.ant-menu-item-active {
+      background-color: #1890FF !important;
+    }
+  }
+  .ant-menu-item-active {
+    background-color: #18202E !important;
+    color: rgba(255, 255, 255, 1) !important;
+  }

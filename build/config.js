@@ -5,7 +5,7 @@ const pkg = require('../package.json');
 module.exports = {
   path: path.join(__dirname, '../dist/assets/'),
   build: {
-    publicPath: `//yun.tuia.cn/tuia/${pkg.name}/dist/`,
+    publicPath: `//mycdn.com/${pkg.name}/dist/`,
     sourceMap: false,
     cssSourceMap: false
   },

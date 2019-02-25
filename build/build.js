@@ -1,10 +1,9 @@
 const chalk = require('chalk');
 const webpack = require('webpack');
-const TuiaAutoUpload = require('tuia-auto-upload');
-const config = require('./config');
+// const config = require('./config');
 const webpackConfig = require('./webpack.prod.conf');
 
-const pkg = require('../package.json');
+// const pkg = require('../package.json');1
 
 webpack(webpackConfig, function(err, stats) {
   if (err) throw err;
@@ -18,11 +17,12 @@ webpack(webpackConfig, function(err, stats) {
 
   console.log(chalk.cyan('  Build complete.\n'));
 
-  (async() => {
-    const uploader = new TuiaAutoUpload({
-      dir: config.path,
-      originDir: `/tuia/${pkg.name}/dist/`
-    });
-    await uploader.start();
-  })();
+  // (async() => {
+  //  上传cdn
+  //   const uploader = new AutoUpload({
+  //     dir: config.path,
+  //     originDir: `/earth/${pkg.name}/dist/`
+  //   });
+  //   await uploader.start();
+  // })();
 });

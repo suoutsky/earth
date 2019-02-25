@@ -1,0 +1,46 @@
+.menu_top {
+    position: absolute;
+    cursor: pointer;
+    top: 50%;
+    right: -16px;
+    width: 16px;
+    height: 50px;
+    transform: translateY(-50%);
+    display: inline-block;
+    background-color: #18202E;
+    border-radius: 0px 4px 4px 0px;
+    line-height: 50px;
+    color: #9b9b9b;
+    &:hover {
+      color: #fff;
+    }
+}
+.slider {
+  background: #242C3B!important;
+//   overflow-y: auto;
+  &::-webkit-scrollbar
+    {
+        width:5px;
+        height:5px;
+        background-color:rgb(255, 255, 255);
+    }
+    /*定义滚动条轨道
+     内阴影+圆角*/
+    &::-webkit-scrollbar-track
+    {
+        box-shadow:inset 0 0 6px rgba(0,0,0,0.1);
+        border-radius:10px;
+        background-color:rgb(255, 255, 255);
+    }
+    /*定义滑块
+     内阴影+圆角*/
+    &::-webkit-scrollbar-thumb
+    {
+        border-radius:10px;
+        box-shadow:inset 0 0 6px rgba(0, 0, 0, 0.068);
+        background-color:#d8d8d8;
+    }
+}
+.menu {
+  border-right: 0;
+}

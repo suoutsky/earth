@@ -7,7 +7,7 @@ const router = new Router();
 const root = path.join(__dirname, '../dist/html/');
 
 router.get('/', async ctx => {
-  ctx.redirect('/ntuia.html');
+  ctx.redirect('/earth.html');
 });
 router.get(/index(\.html)?$/, (ctx, next) => {
   ctx.redirect('/');

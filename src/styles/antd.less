@@ -1,0 +1,72 @@
+@import '~antd/dist/antd.less';
+
+/*
+ * 重置antd的less变量
+ * 默认变量表：https://github.com/ant-design/ant-design/blob/master/components/style/themes/default.less
+ */
+//  @primary-color: #ff7746;
+@breadcrumb-link-color: #fff;
+@breadcrumb-separator-color: #fff;
+@breadcrumb-last-item-color: #fff;
+
+/*
+  * 定制antd的样式
+  * 注意：能用antd.less变量重置的使用less变量的方法重置，无法通过less变量重置则使用class重置
+  */
+
+// 列表类页面，搜索区和表格区的间距
+.antd-form + .antd-table-wrapper {
+  margin-top: 20px;
+}
+
+// 表格内的a链接颜色
+.antd-table-body {
+  a {
+    color: @primary-color;
+  }
+}
+
+// 弹层居中
+.antd-modal-wrap {
+  text-align: center;
+  white-space: nowrap;
+}
+.antd-modal-wrap:before {
+  content: '';
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
+  width: 0;
+}
+.antd-modal-wrap .antd-modal {
+  display: inline-block;
+  vertical-align: middle;
+  top: 0;
+  text-align: left;
+}
+
+// 弹层头部颜色更改
+.antd-modal-header {
+  // background-color: @primary-color;
+  // .antd-modal-title {
+  //   color: #fff;
+  // }
+}
+.antd-modal-close {
+  color: #fff;
+  &:hover,
+  &:focus {
+    color: #fff;
+  }
+}
+
+// pop确认框padding调整
+.antd-popover-inner-content {
+  padding: 16px !important;
+}
+.antd-popover-message > .antdicon {
+  top: 4px !important;
+}
+.antd-layout-header {
+  background: #fff;
+}

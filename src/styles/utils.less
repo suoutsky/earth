@@ -1,0 +1,95 @@
+/*
+ * css工具类class
+ */
+
+ @import 'mixin.less';
+
+ :global{
+  /*
+   * 颜色相关
+   * 参考https://ant.design/docs/spec/colors-cn
+   */
+  .primary-color{
+    // 主颜色
+    color: @primary-color;
+  }
+  .info-color{
+    // 信息提示颜色
+    color: @info-color;
+  }
+  .success-color{
+    // 成功颜色
+    color: @success-color;
+  }
+  .processing-color{
+    // 进行中颜色
+    color: @processing-color;
+  }
+  .error-color{
+    // 错误颜色
+    color: @error-color;
+  }
+  .highlight-color{
+    // 高亮颜色
+    color: @highlight-color;
+  }
+  .warning-color{
+    // 警告颜色
+    color: @warning-color;
+  }
+  .normal-color{
+    // 灰色，边框颜色
+    color: @normal-color;
+  }
+
+
+  /*
+   * 布局相关
+   */
+   .clearfix{
+     .clearfix();
+   }
+   .fl{
+     float: left;
+   }
+   .fr{
+     float: right;
+   }
+   .generate-mp(5);
+
+   .generate-mp(@px) when (@px =< 40) {
+     .mt@{px} {
+       margin-top: 0px + @px;
+     }
+     .mr@{px} {
+       margin-right: 0px + @px;
+     }
+     .mb@{px} {
+       margin-bottom: 0px + @px;
+     }
+     .ml@{px} {
+       margin-left: 0px + @px;
+     }
+     .pt@{px} {
+       padding-top: 0px + @px;
+     }
+     .pr@{px} {
+       padding-right: 0px + @px;
+     }
+     .pb@{px} {
+       padding-bottom: 0px + @px;
+     }
+     .pl@{px} {
+       padding-left: 0px + @px;
+     }
+     .generate-mp(@px + 5);
+   }
+ }
+ // ant-input-search
+ #___menu_container___ {
+  .ant-input-search {
+    .ant-input {
+     background-color: rgba(248,248,248,1);
+    }
+  }
+ }

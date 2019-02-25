@@ -1,10 +1,3 @@
-/*
- * @Author: 周成
- * @Date: 2018-01-16 15:51:14
- * @Last Modified by: suxiaoqing
- * @Last Modified time: 2018-12-13 15:33:46
- */
-
 const path = require('path');
 
 const NODE_ENV = process.env.NODE_ENV;
