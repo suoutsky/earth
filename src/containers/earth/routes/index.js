@@ -15,7 +15,7 @@ const rootRoute = {
   indexRoute: {
     getComponent(location, cb) {
       require.ensure([], (require) => {
-        cb(null, require('src/containers/earth/chart-center/line/index').default);
+        cb(null, require('src/containers/earth/chart-center/barChart/index').default);
       });
     }
   },

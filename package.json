@@ -16,6 +16,8 @@
   "license": "ISC",
   "dependencies": {
     "@tweenjs/tween.js": "^17.2.0",
+    "d3": "^5.9.1",
+    "d3-tip": "^0.9.1",
     "daterangepicker": "^2.1.25",
     "echarts": "^4.1.0",
     "koa": "^2.6.1",

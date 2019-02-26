@@ -2,7 +2,8 @@
   "success": true,
   "authList": [
     "/datapanel",
-    "/datapanel/histogram"
+    "/datapanel/histogram",
+    "/datapanel/segment"
   ],
   "version": 1544683410019
 }
