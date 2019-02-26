@@ -1,7 +1,7 @@
 module.exports = [
   {
     name: 'earth',
-    path: '../src/pages/earth/index',
+    path: '../src/containers/earth/index',
     template: '../html/earth.html'
   }
 ];

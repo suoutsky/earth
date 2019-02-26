@@ -8,8 +8,9 @@ const MENU = [
       {
         title: '直方图',
         key: 'income',
-        auth: '/datapanel/income',
-        route: '/datapanel/income'
+        auth: '/datapanel/histogram',
+        route: '/datapanel/histogram',
+        isRoot: true
       }
     ]
   }

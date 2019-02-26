@@ -10,7 +10,7 @@ import {
 } from 'antd';
 
 import MENU from './menuData';
-import Topbar from '../../topbar';
+// import Topbar from '../../topbar';
 import Footer from '../../footer';
 import styles from './index.less';
 
@@ -135,7 +135,6 @@ class Menu extends React.Component {
           selectedKeys={selectedKeys}
           onOpenChange={this.onOpenChange}
           onClick={this.itemClick}
-          header={<Topbar appShowId="tuia" collapsed={collapsed}></Topbar>}
           footer={<Footer collapsed={collapsed}></Footer>}
         >
           {this._createSubMenu()}
