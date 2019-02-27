@@ -1,6 +1,6 @@
 const MENU = [
   {
-    title: 'D3demo',
+    title: 'D3',
     icon: '&#xe60d;',
     key: 'datapanel',
     auth: '/datapanel',
