@@ -10,8 +10,7 @@ import {
 } from 'antd';
 
 import MENU from './menuData';
-// import Topbar from '../../topbar';
-import Footer from '../../footer';
+import Footer from '../footer';
 import styles from './index.less';
 
 const { SubMenu } = AntdMenu;
@@ -26,7 +25,7 @@ class Menu extends React.Component {
       selectedKeys: []
     };
   }
-  rootSubmenuKeys = ['datapanel', 'monitor', 'analyze', 'tuiachartcenter'];
+  rootSubmenuKeys = ['datapanel'];
 
   // 菜单伸缩
   _toggle = () => {
@@ -43,12 +42,13 @@ class Menu extends React.Component {
   // 生成一级菜单
   _createSubMenu = () => {
     const { collapsed } = this.state;
-    return MENU.map((item) => {
+    const { meunType } = this.props;
+    return MENU[meunType].map((item) => {
       const { icon, title, key, auth } = item;
       const subMenuTitle = (
         <span>
           <i className="iconnav antdicon" dangerouslySetInnerHTML={{ __html: icon }}></i>
-          <span>{title}</span>
+          {collapsed ? null : <span>&nbsp;&nbsp;{title}</span>}
         </span>
       );
       return PermissionTool.ifRender(auth) ? (
@@ -96,6 +96,11 @@ class Menu extends React.Component {
   componentDidMount() {
     this.getCurrentPaths();
   }
+  /**
+   * @description: 获取当前加载页面
+   * @param {type}
+   * @return:
+   */
   getCurrentPaths = () => {
     const { currentLocation = {} } = this.props;
     const { pathname = '' } = currentLocation;
@@ -124,7 +129,7 @@ class Menu extends React.Component {
         <div className={styles.menu_top} onClick={this._toggle}>
           <Icon
             className="trigger"
-            type={!collapsed ? 'dir-left' : 'dir-right'}
+            type={!collapsed ? 'left' : 'right'}
           />
         </div>
         <AntdMenu

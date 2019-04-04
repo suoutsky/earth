@@ -1,4 +1,4 @@
-import App from '../App';
+import App from './App';
 
 const checkLoginState = (replaceState) => {
   console.log('route to login page here');
@@ -15,12 +15,11 @@ const rootRoute = {
   indexRoute: {
     getComponent(location, cb) {
       require.ensure([], (require) => {
-        cb(null, require('src/containers/earth/chart-center/line').default);
+        cb(null, require('src/containers/spark/todo').default);
       });
     }
   },
   childRoutes: [
-    require('./components/chart-center'),
     // require('./components/monitor'),
     // 路由放在这个的前面
     // 这里相当于redirect, 放404

@@ -2,7 +2,6 @@ import React from 'react';
 
 import common from 'src/lib/common';
 import PermissionTool from 'src/lib/permissionTools';
-import water from 'src/lib/water';
 import {
   Layout
 } from 'antd';
@@ -10,6 +9,7 @@ import {
 import Menu from 'src/components/menu';
 
 import 'src/styles/index.less';
+import water from 'src/lib/water';
 
 const { Content } = Layout;
 
@@ -65,13 +65,11 @@ export default class App extends React.Component {
     const { getCurrentLocation } = router;
     return dataIsReady ? (
       <Layout className="app-container">
-        <Layout>
-          <Menu currentLocation={getCurrentLocation()} meunType="EARTH_MENU" root="earth.html#!"/>
-          <Layout className="content">
-            <Content className="content-container">
-              {children}
-            </Content>
-          </Layout>
+        <Menu currentLocation={getCurrentLocation()} meunType="SPARK_MENU" root="spark.html#!"/>
+        <Layout className="content">
+          <Content className="content-container">
+            {children}
+          </Content>
         </Layout>
       </Layout>
     ) : null;

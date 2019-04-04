@@ -4,7 +4,7 @@ module.exports = {
   path: 'datapanel',
   getComponent(nextState, cb) {
     require.ensure([], (require) => {
-      cb(null, require('src/containers/earth/chart-center/index.js').default);
+      cb(null, require('src/containers/earth/chart-center/line').default);
     });
   },
   childRoutes: [{
